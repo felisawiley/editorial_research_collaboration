@@ -24,7 +24,7 @@ Monday 9:00 AM Cursor  ──reads──►  status.md  →  emails Editorial Re
 | When | Who | Job |
 |---|---|---|
 | **Sun 5:45 PM** | Cursor | **Owner capture sync** — Gmail replies → `captures/owner/` → push |
-| **Sunday (after 5:45)** | Claude | Merge owner + Claude captures into `status.md`; Progress logs; digest |
+| **Sunday (after 5:45)** | Claude | Merge owner + Claude captures into `status.md`; Progress logs; Do not resurface add/expire; digest |
 | **Mon 9:00 AM** | Cursor | Editorial Review email; never recommend Do not resurface / Permanently suppressed; backup reply dump |
 | **You** | Email reply | Progress, decisions, kills, `do not resurface: …` |
 
@@ -44,7 +44,7 @@ Monday’s email asks: anything that should not come back?
 
 `do not resurface: <full title> — reason` or `do not resurface: nothing`
 
-- **This week:** Sunday adds it to `## Do not resurface` (Monday won’t mention it).
+- **This week:** Sunday adds it to `## Do not resurface` with `(added: YYYY-MM-DD)` (Monday won’t mention it).
 - **The following Sunday:** it is **removed** from Do not resurface and moved to `## Permanently suppressed` (still never recommended unless you resurrect it).
 
 ## Layout
@@ -55,8 +55,8 @@ agents/
   editorial_owner_capture_sync.md  Sunday 5:45 PM Gmail → GitHub
   editorial_reply_intake.md         Shared reply-bridge rules
 editorial/
-  status.md
-  reviews/
+  status.md                        Includes Do not resurface + Permanently suppressed
+  reviews/                         Archived Monday emails
   captures/owner/                  Your Gmail replies
   captures/claude/                 Claude deltas
 ```
@@ -64,4 +64,4 @@ editorial/
 ## Constraints
 
 - Sunday Claude owns Progress-log history (append only); run it after the 5:45 PM sync.
-- Never invent progress. Never re-surface Do not resurface items.
+- Never invent progress. Never recommend Do not resurface or Permanently suppressed items.
