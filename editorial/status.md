@@ -11,17 +11,17 @@ digging through git history.
 
 Last status update: 2026-08-06
 Last chat scan: 2026-08-06
-Source: owner reply to Editorial Review – 2026-08-06 + chat correction (do not kill The Manufactured Agreeable Mind v5)
+Source: owner replies to Editorial Review – 2026-08-06 (Substack/Asymmetric Resonance; kill withdrawn; v5 pre-submission + free-venue research need) + chat correction
 
 ---
 
 ## Projects
 
 ### The Manufactured Agreeable Mind (research paper)
-- Status: Drafted / stalled pending literature update — **alive** (v5 draft not killed)
-- Last known progress: v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance
-- Open questions: Stage 3→4 still primary gap?; is sycophancy still a unitary Stage-1 antecedent?; submission target?; is The Manufactured Agreeable Mind v5 pre-submission or mid-revision?
-- Next move (proposed): Revise clinical section with conversation-level medical sycophancy evidence
+- Status: Drafted / stalled pending literature update — **alive**, pre-submission (v5 draft not killed)
+- Last known progress: v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance; owner: nowhere near ready; needs free/OA venue research once completed
+- Open questions: Stage 3→4 still primary gap?; is sycophancy still a unitary Stage-1 antecedent?; which free/OA venues fit once revised?
+- Next move (proposed): Shortlist free/OA venues (owner-named) and/or revise clinical section with conversation-level medical sycophancy evidence
 - Dependencies: Bandwidth vs Penn/ACAM clinical transcript work
 - Progress log:
   - 2026-08-05: v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance — baseline
@@ -121,6 +121,7 @@ append to it, never rewrite past entries.
 
 - 2026-08-06 (Re: Editorial Review – 2026-08-06): 6 Substack personal essays drafted+scheduled; Asymmetric Resonance essay scheduled; then wrote "Kill Paperv5"
 - 2026-08-06 (chat correction): do **not** kill The Manufactured Agreeable Mind (research paper) v5 — owner did not realize "Paper v5" meant that project
+- 2026-08-06 (Re: Re: Editorial Review – 2026-08-06): The Manufactured Agreeable Mind v5 is pre-submission; nowhere near ready; need to research free publications for once completed
 
 ---
 
@@ -133,12 +134,13 @@ append to it, never rewrite past entries.
 ## Processed replies
 
 - 2026-08-06 Re: Editorial Review – 2026-08-06 (plus chat correction: do not kill The Manufactured Agreeable Mind v5)
+- 2026-08-06 Re: Re: Editorial Review – 2026-08-06 (pre-submission + free-venue research need)
 
 ---
 
 ## Processed owner captures
 
-(none yet)
+- 2026-08-06.md (archived by Monday; Sunday should still merge any Progress-log lines not yet appended)
 
 ---
 
@@ -152,4 +154,4 @@ append to it, never rewrite past entries.
 
 - Relation of the 6 scheduled personal essays to Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - Confirm whether Asymmetric Resonance is essay-only for now or still a candidate project/book signal
-- Confirm whether The Manufactured Agreeable Mind (research paper) v5 is pre-submission or mid-revision (still open — kill withdrawn)
+- Resolved 2026-08-06: The Manufactured Agreeable Mind (research paper) v5 is pre-submission (not mid-revision); kill withdrawn earlier the same day
