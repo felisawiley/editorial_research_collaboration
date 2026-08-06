@@ -4,7 +4,19 @@ Only update this file when delivery or project roster changes.
 
 ---
 
-## Delivery
+## Pipeline
+
+| When | Who | Job |
+|---|---|---|
+| Sunday | Claude routine | Refresh current-state fields; append Progress log (`continued` / `new angle` / `resolved` / `new` / `closed`); update Idea tree; weekly reminder |
+| Monday | Cursor Editorial Review | Read Sunday’s `editorial/status.md` as the progress feed; recommend follow-through; name new↔old blends; add external challenge |
+| Anytime | Owner email reply to Editorial Review | Overrides specific points; does not erase Progress log history |
+
+Sunday owns continuity. Monday owns judgment. Do not double-merge status.
+
+---
+
+## Delivery (Monday)
 
 - To: felisawiley@gmail.com
 - Subject: `Editorial Review – YYYY-MM-DD`
@@ -13,29 +25,10 @@ Only update this file when delivery or project roster changes.
 ## Reply intake
 
 - Match threads with subject containing: `Editorial Review`
-- Treat the newest message from Felisa (not the automated review body) as an update
-- Valid replies include deltas or the word `nothing`
-- After applying an update, append acknowledgment note to that week's archive
-- Owner email replies outrank all other signals
-
-## Claude delta intake (local captures — automatic)
-
-- Drop folder (Mac): `/Users/felisawiley/Desktop/agentic_workflows/editorial/captures/claude/`
-- Filename pattern: `YYYY-MM-DD.md`
-- Local watcher: `scripts/push_claude_captures.sh` + LaunchAgent `com.felisawiley.claude-captures-push` (commit + push to `main` within ~60s)
-- Optional producer: Claude Code cloud routine (see `editorial/claude_cowork_delta_prompt.md`)
-- Process files not listed under `Processed Claude captures` in status
-- Apply deltas with the same promotion gates as Cursor chat pull
-- Rank: below owner reply, above Cursor chat inference
-
-## Cursor chat pull
-
-- Enabled: yes
-- Window: since `Last chat scan` in status (fallback: 7 days)
-- Named-project updates only for Active projects below
-- New-idea chats → Candidate projects until promotion rules are met
-- Promote to Active only when: design exists **and** domains researched
-- Extract newest deltas only — no full transcript dumps
+- Treat the newest message from Felisa as an override
+- Valid replies include deltas or `nothing`
+- Owner replies outrank Sunday’s summary for those points only
+- Never delete or rewrite past Progress log lines
 
 ## Active projects
 
