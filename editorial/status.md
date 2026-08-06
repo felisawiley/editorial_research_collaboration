@@ -9,31 +9,33 @@ is ever deleted to get there — each one also carries an append-only
 can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
-Last status update: 2026-08-05
+Last status update: 2026-08-06
 Last chat scan: 2026-08-06
-Source: reconstructed from first weekly cycle + local drafts (not yet confirmed by reply)
+Source: owner reply to Editorial Review – 2026-08-06 + chat correction (do not kill The Manufactured Agreeable Mind v5)
 
 ---
 
 ## Projects
 
 ### The Manufactured Agreeable Mind (research paper)
-- Status: Drafted / stalled pending literature update
+- Status: Drafted / stalled pending literature update — **alive** (v5 draft not killed)
 - Last known progress: v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance
-- Open questions: Stage 3→4 still primary gap?; is sycophancy still a unitary Stage-1 antecedent?; submission target?
+- Open questions: Stage 3→4 still primary gap?; is sycophancy still a unitary Stage-1 antecedent?; submission target?; is The Manufactured Agreeable Mind v5 pre-submission or mid-revision?
 - Next move (proposed): Revise clinical section with conversation-level medical sycophancy evidence
 - Dependencies: Bandwidth vs Penn/ACAM clinical transcript work
 - Progress log:
   - 2026-08-05: v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance — baseline
   - 2026-08-06: blocked: no capture signal on Monday's follow-through
+  - 2026-08-06: owner reply said "Kill Paperv5" then corrected — do **not** kill The Manufactured Agreeable Mind; "Paper v5" was opaque shorthand and was misread
 
-### 10-part Manufactured/Contrarian Mind Substack series
-- Status: Unknown — no local drafts recovered
-- Last known progress: —
-- Open questions: Which parts exist? Any published?
-- Next move: Awaiting owner update
+### Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
+- Status: Active drafting/scheduling underway (personal essays)
+- Last known progress: 6 personal essays drafted and scheduled; more brainstorming
+- Open questions: Relation of these personal essays to the named 10-part series? Distinct from The Manufactured Agreeable Mind (paper) and The Contrarian (book), or a spinoff?
+- Next move: Continue drafting; clarify whether scheduled pieces are inside or beside the 10-part series
 - Progress log:
   - 2026-08-05: No local drafts recovered — baseline
+  - 2026-08-06: owner reply — 6 Substack personal essays drafted+scheduled; more in brainstorm
 
 ### The Contrarian (book)
 - Status: Named / no manuscript recovered
@@ -53,18 +55,20 @@ Source: reconstructed from first weekly cycle + local drafts (not yet confirmed 
 
 ### Third book (title TBD)
 - Status: Unknown
-- Last known progress: Possible signal — “Asymmetric Resonance” definition card (2026-08-05)
-- Open questions: Live concept or discard?
+- Last known progress: Possible signal — “Asymmetric Resonance” definition card (2026-08-05); concept also appearing in scheduled Substack essay
+- Open questions: Live concept for a book, or essay-only for now?
 - Next move: Awaiting confirmation
 - Progress log:
   - 2026-08-05: Possible signal — “Asymmetric Resonance” definition card — baseline
+  - 2026-08-06: owner — Asymmetric Resonance included in a scheduled Substack personal essay (not killed)
 
 ### Standalone socio-technological essays
-- Status: Pipeline empty (from system view)
-- Last known progress: —
-- Next move: Optional — “correct answer that concedes” only if public writing is wanted alongside paper revision
+- Status: Pipeline active via Substack personal essays
+- Last known progress: 6 drafted and scheduled (owner reply 2026-08-06)
+- Next move: Optional — keep public essays moving alongside paper revision
 - Progress log:
   - 2026-08-05: Pipeline empty — baseline
+  - 2026-08-06: owner — 6 Substack personal essays drafted+scheduled
 
 ---
 
@@ -81,13 +85,14 @@ Source: reconstructed from first weekly cycle + local drafts (not yet confirmed 
 (Promoted to Active only when design exists **and** domains researched.)
 
 ### Asymmetric Resonance (provisional)
-- One-line thesis: TBD
-- Design exists: no (definition card only, 2026-08-05)
+- One-line thesis: TBD (appearing in a scheduled Substack personal essay)
+- Design exists: no (definition card + essay mention; no research dossier)
 - Domains researched: none recorded
-- Last chat/file signal: editorial definition card in Downloads
+- Last chat/file signal: owner reply 2026-08-06 — essay including Asymmetric Resonance scheduled on Substack
 - Gate: do not promote until thesis + research exist
 - Progress log:
   - 2026-08-05: Definition card only, no thesis/domains yet — baseline
+  - 2026-08-06: owner — keep; personal essay including it scheduled (not kill)
 
 ---
 
@@ -114,7 +119,8 @@ append to it, never rewrite past entries.
 
 ## Recent replies
 
-(none yet)
+- 2026-08-06 (Re: Editorial Review – 2026-08-06): 6 Substack personal essays drafted+scheduled; Asymmetric Resonance essay scheduled; then wrote "Kill Paperv5"
+- 2026-08-06 (chat correction): do **not** kill The Manufactured Agreeable Mind (research paper) v5 — owner did not realize "Paper v5" meant that project
 
 ---
 
@@ -126,7 +132,7 @@ append to it, never rewrite past entries.
 
 ## Processed replies
 
-(none yet)
+- 2026-08-06 Re: Editorial Review – 2026-08-06 (plus chat correction: do not kill The Manufactured Agreeable Mind v5)
 
 ---
 
@@ -144,6 +150,6 @@ append to it, never rewrite past entries.
 
 ## Open clarifications
 
-- Confirm Substack / book statuses
-- Confirm whether Asymmetric Resonance is in-scope
-- Confirm whether v5 is pre-submission or mid-revision
+- Relation of the 6 scheduled personal essays to Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
+- Confirm whether Asymmetric Resonance is essay-only for now or still a candidate project/book signal
+- Confirm whether The Manufactured Agreeable Mind (research paper) v5 is pre-submission or mid-revision (still open — kill withdrawn)

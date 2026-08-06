@@ -28,7 +28,7 @@ Produce this week's editorial delta from your available Claude conversation/proj
 
 ACTIVE PROJECTS (named only — progress updates only for these)
 - The Manufactured Agreeable Mind (research paper)
-- 10-part Manufactured/Contrarian Mind Substack series
+- Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - The Contrarian (book)
 - The Voiceless (book)
 - Third book (title TBD)
