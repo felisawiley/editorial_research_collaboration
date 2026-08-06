@@ -1,24 +1,21 @@
-# Claude Code Routine — Editorial Delta (fully automatic)
+# Claude — Editorial Delta
 
-**No manual steps.** This routine writes, commits, and pushes the weekly Claude delta to `main`.
+Two fully automatic landing paths (pick either):
 
-Create at: [claude.ai/code/routines](https://claude.ai/code/routines)  
-Or in Claude Code CLI: `/schedule`
+1. **Local save + watcher (no Claude↔GitHub needed)**  
+   Save `YYYY-MM-DD.md` into  
+   `/Users/felisawiley/Desktop/agentic_workflows/editorial/captures/claude/`  
+   Local LaunchAgent commits and pushes to `main` within ~60s.  
+   Install: see `editorial/captures/claude/README.md`
 
-| Field | Value |
-|---|---|
-| Name | Editorial Claude Delta |
-| Repo | `felisawiley/editorial_research_collaboration` |
-| Schedule | Weekly, Sundays ~8:00 PM (local) |
-| Trigger | Scheduled only |
-| Connectors | Only what you need for chat/project context; GitHub via the repo attachment is enough for write/commit |
-| Network | Default / Trusted is fine |
+2. **Claude Code routine** writes/commits/pushes the same path on `main`  
+   Setup: [claude.ai/code/routines](https://claude.ai/code/routines) — prompt below
 
-`main` is **not** branch-protected on this repo, so the routine can push directly.
+Monday’s Cursor Editorial Review reads new files from GitHub either way.
 
 ---
 
-## Routine prompt (paste into the routine exactly)
+## Claude Code routine prompt (optional path)
 
 ```text
 You are an unattended Claude Code routine. Complete the task end-to-end with no human approval.
@@ -84,11 +81,3 @@ CONSTRAINTS
 - Do not ask for confirmation.
 - Do not invent project progress.
 ```
-
----
-
-## After you create it
-
-1. Click **Run now** once to verify a file appears on `main` under `editorial/captures/claude/`.
-2. Leave it on the Sunday schedule.
-3. Monday’s Cursor Editorial Review will auto-read new capture files — no paste, no download.

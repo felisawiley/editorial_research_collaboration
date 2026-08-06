@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.felisawiley.claude-captures-push</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/felisawiley/Desktop/agentic_workflows/scripts/push_claude_captures.sh</string>
+  </array>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+  <key>WorkingDirectory</key>
+  <string>/Users/felisawiley/Desktop/agentic_workflows</string>
+  <key>StartInterval</key>
+  <integer>60</integer>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>StandardOutPath</key>
+  <string>/Users/felisawiley/Desktop/agentic_workflows/logs/claude_captures_watch.stdout.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/felisawiley/Desktop/agentic_workflows/logs/claude_captures_watch.stderr.log</string>
+</dict>
+</plist>

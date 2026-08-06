@@ -1,10 +1,35 @@
-# Claude captures inbox
+# Claude captures inbox (local drop → auto GitHub push)
 
-Fully automatic path:
+**Drop folder (on your Mac):**
+`/Users/felisawiley/Desktop/agentic_workflows/editorial/captures/claude/`
 
-1. **Claude Code routine** (Sunday) writes `YYYY-MM-DD.md` here and pushes to `main`
-2. **Cursor Editorial Weekly** (Monday) reads unprocessed files and updates `editorial/status.md`
+Save files as `YYYY-MM-DD.md` (example: `2026-08-10.md`).
 
-Routine setup + prompt: [`../claude_cowork_delta_prompt.md`](../claude_cowork_delta_prompt.md)
+A local LaunchAgent runs every 60s, commits new/changed dated files, and pushes to `main`. Monday’s Editorial automation then reads them from GitHub.
 
-Processed filenames are listed in `editorial/status.md` under `Processed Claude captures`.
+## One-time install (Mac)
+
+```bash
+chmod +x /Users/felisawiley/Desktop/agentic_workflows/scripts/push_claude_captures.sh
+mkdir -p ~/Library/LaunchAgents
+cp /Users/felisawiley/Desktop/agentic_workflows/scripts/com.felisawiley.claude-captures-push.plist ~/Library/LaunchAgents/
+launchctl unload ~/Library/LaunchAgents/com.felisawiley.claude-captures-push.plist 2>/dev/null
+launchctl load ~/Library/LaunchAgents/com.felisawiley.claude-captures-push.plist
+```
+
+Test without waiting:
+
+```bash
+/Users/felisawiley/Desktop/agentic_workflows/scripts/push_claude_captures.sh
+```
+
+Logs: `logs/claude_captures_watch.log`
+
+## Notes
+
+- Ignores `README.md`
+- Only picks up `YYYY-MM-DD.md`
+- Must stay on branch `main` for auto-push
+- Claude Code cloud routine can still write here remotely; this path is for **local** saves
+
+Processed-by-editorial filenames are tracked in `editorial/status.md` under `Processed Claude captures`.

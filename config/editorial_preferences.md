@@ -20,10 +20,10 @@ Only update this file when delivery or project roster changes.
 
 ## Claude delta intake (local captures — automatic)
 
-- Path: `editorial/captures/claude/`
+- Drop folder (Mac): `/Users/felisawiley/Desktop/agentic_workflows/editorial/captures/claude/`
 - Filename pattern: `YYYY-MM-DD.md`
-- Producer: Claude Code cloud routine → commit + push to `main` (see `editorial/claude_cowork_delta_prompt.md`)
-- No manual save/email
+- Local watcher: `scripts/push_claude_captures.sh` + LaunchAgent `com.felisawiley.claude-captures-push` (commit + push to `main` within ~60s)
+- Optional producer: Claude Code cloud routine (see `editorial/claude_cowork_delta_prompt.md`)
 - Process files not listed under `Processed Claude captures` in status
 - Apply deltas with the same promotion gates as Cursor chat pull
 - Rank: below owner reply, above Cursor chat inference
