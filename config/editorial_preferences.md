@@ -36,8 +36,9 @@ Sunday Claude should run **after** the 5:45 PM owner sync so same-week replies a
 
 - Monday email always asks: anything to stop bringing up?
 - Owner: `do not resurface: <full title> — reason` or `do not resurface: nothing`
-- Sunday Claude adds to `status.md` → `## Do not resurface`
-- Later Mondays never recommend those items unless owner resurrects them
+- Sunday Claude adds to `status.md` → `## Do not resurface` with `(added: YYYY-MM-DD)`
+- **The following Sunday:** remove from Do not resurface → append `## Permanently suppressed` (and kill/close the matching idea if needed)
+- Mondays never recommend items on either list unless owner resurrects them
 
 ## Naming (no opaque shorthand)
 

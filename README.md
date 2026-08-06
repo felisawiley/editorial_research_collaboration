@@ -44,7 +44,8 @@ Monday’s email asks: anything that should not come back?
 
 `do not resurface: <full title> — reason` or `do not resurface: nothing`
 
-Sunday Claude adds those to `status.md` → **## Do not resurface**. Later Mondays must not bring them back.
+- **This week:** Sunday adds it to `## Do not resurface` (Monday won’t mention it).
+- **The following Sunday:** it is **removed** from Do not resurface and moved to `## Permanently suppressed` (still never recommended unless you resurrect it).
 
 ## Layout
 

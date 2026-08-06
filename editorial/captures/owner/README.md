@@ -5,4 +5,4 @@
 - Same calendar day → **append** into the same file
 - Run Claude status merge **after** 5:45 PM so it sees this week’s replies
 - Monday may also append late replies as backup
-- `do not resurface: …` lines become bans on later Monday recommendations
+- `do not resurface: …` → listed one week under Do not resurface, then moved to Permanently suppressed (still never recommended)

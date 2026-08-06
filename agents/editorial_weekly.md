@@ -56,11 +56,11 @@ From Progress logs + Idea tree, extract:
 | `new` | Candidate or new branch — blend with old only if mechanism matches |
 | Promoted this week | Elevate briefly in “Where things stand” |
 | Nested idea-tree children | Prefer blend/merge language over inventing parallel projects |
-| Items under **Do not resurface** | Ban from Follow through, Blends, questions, and clarifications |
+| Items under **Do not resurface** or **Permanently suppressed** | Ban from Follow through, Blends, questions, and clarifications |
 
-**Follow-through this week** = the single highest-leverage action implied by open Progress lines + unresolved Open questions — not a new brainstorm. Never pick a Do not resurface item.
+**Follow-through this week** = the single highest-leverage action implied by open Progress lines + unresolved Open questions — not a new brainstorm. Never pick a Do not resurface or Permanently suppressed item.
 
-**Blends** = name the parent idea and the new angle explicitly. If they don’t share a mechanism, say so and keep the new item as candidate. Skip anything on Do not resurface.
+**Blends** = name the parent idea and the new angle explicitly. If they don’t share a mechanism, say so and keep the new item as candidate. Skip anything on Do not resurface or Permanently suppressed.
 
 ---
 
@@ -120,13 +120,14 @@ If nothing: `do not resurface: nothing`
 
 ---
 
-## Do not resurface (hard rule)
+## Do not resurface / Permanently suppressed (hard rule)
 
-1. Read `## Do not resurface` in `editorial/status.md` before writing.
-2. Never recommend, blend, re-open, or ask kill/keep questions about those items.
+1. Read `## Do not resurface` **and** `## Permanently suppressed` in `editorial/status.md` before writing.
+2. Never recommend, blend, re-open, or ask kill/keep questions about items on either list (or near-duplicates under a new name).
 3. Never put them in Follow through, Blends, Three questions, or Open clarifications.
-4. Only revive an item if an owner capture explicitly says to resurrect it (then Sunday removes it from the list).
-5. When owner replies include `do not resurface: …`, write them into `captures/owner/YYYY-MM-DD.md` (append that day) so Sunday adds them to the list — next Monday they must not appear again.
+4. Only revive an item if an owner capture explicitly says to resurrect it (then Sunday removes it from Permanently suppressed / Do not resurface).
+5. When owner replies include `do not resurface: …`, write them into `captures/owner/YYYY-MM-DD.md` (append that day) so Sunday adds them to Do not resurface with `(added: YYYY-MM-DD)`.
+6. Lifecycle (Sunday Claude owns status): items stay on Do not resurface for **one week**, then are **removed** from that list and moved to Permanently suppressed — still banned from Monday recommendations forever unless resurrected.
 
 ## Delivery
 
