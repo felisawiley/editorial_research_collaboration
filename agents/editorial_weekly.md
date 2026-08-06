@@ -107,6 +107,7 @@ Your reply overrides status for next week; Sunday Claude continues the Progress 
    - Subject: `Editorial Review – YYYY-MM-DD`
    - Body: the review including the closing reply prompt
    - Prefer HTML with real `<h2>` section headers + plain-text alternative; never leave raw `###` markdown in the inbox
+   - Keep HTML typography compact: body ~13px, title ~16px, section headers ~12px (avoid large display sizes)
 4. Commit: `Editorial review: YYYY-MM-DD`
 5. Push if remote is configured
 
