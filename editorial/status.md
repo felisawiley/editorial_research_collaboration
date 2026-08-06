@@ -10,7 +10,7 @@ can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
 Last status update: 2026-08-05
-Last chat scan: never
+Last chat scan: 2026-08-06
 Source: reconstructed from first weekly cycle + local drafts (not yet confirmed by reply)
 
 ---
