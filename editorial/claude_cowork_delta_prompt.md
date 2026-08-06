@@ -1,26 +1,35 @@
-# Claude — Editorial Delta (local save)
+# Claude Code Routine — Editorial Delta (fully automatic)
 
-No Gmail required.
+**No manual steps.** This routine writes, commits, and pushes the weekly Claude delta to `main`.
 
-**Suggested schedule:** Sundays ~8:00 PM (before Monday 9:00 AM Editorial Review)
+Create at: [claude.ai/code/routines](https://claude.ai/code/routines)  
+Or in Claude Code CLI: `/schedule`
 
-**Output destination (required):**
-`editorial/captures/claude/YYYY-MM-DD.md`
-in the repo `felisawiley/editorial_research_collaboration`
+| Field | Value |
+|---|---|
+| Name | Editorial Claude Delta |
+| Repo | `felisawiley/editorial_research_collaboration` |
+| Schedule | Weekly, Sundays ~8:00 PM (local) |
+| Trigger | Scheduled only |
+| Connectors | Only what you need for chat/project context; GitHub via the repo attachment is enough for write/commit |
+| Network | Default / Trusted is fine |
 
-### How to land the file
-Pick one:
-1. **Claude Code routine** with GitHub on this repo → write/commit the file to that path (best if available)
-2. **Cowork / chat** → produce the markdown → you save it into `editorial/captures/claude/` and push
-3. Manual paste into a new dated file in that folder
+`main` is **not** branch-protected on this repo, so the routine can push directly.
 
 ---
 
-## Task prompt (copy below)
+## Routine prompt (paste into the routine exactly)
 
-You are producing a weekly **editorial delta** for Felisa Wiley’s writing/research system — not a full digest and not new ideas for novelty.
+```text
+You are an unattended Claude Code routine. Complete the task end-to-end with no human approval.
 
-### Active projects (named only)
+Repo: felisawiley/editorial_research_collaboration (already checked out).
+Default branch: main.
+
+GOAL
+Produce this week's editorial delta from your available Claude conversation/project context and land it on origin/main before you stop.
+
+ACTIVE PROJECTS (named only — progress updates only for these)
 - The Manufactured Agreeable Mind (research paper)
 - 10-part Manufactured/Contrarian Mind Substack series
 - The Contrarian (book)
@@ -28,28 +37,18 @@ You are producing a weekly **editorial delta** for Felisa Wiley’s writing/rese
 - Third book (title TBD)
 - Standalone socio-technological essays
 
-### What to do
-1. Review your recent Claude conversations / Project memory / files available to you from the past 7 days (or since the last delta file).
-2. Extract **only the newest material deltas** for the named projects above:
-   - status change
-   - decision made
-   - draft/section advanced
-   - idea killed / deferred / merged
-   - new open question
-3. If a conversation develops a **new** intellectual project or essay thesis not in the list:
-   - Add it under **Candidates** only
-   - Do **not** promote to Active unless both are true: a clear design/thesis exists **and** domains have been researched
+STEPS
+1. Read editorial/status.md and the newest file(s) in editorial/captures/claude/ (ignore README).
+2. Using recent Claude conversation/project context available to you since the last capture (or last 7 days), extract ONLY the newest material deltas for the named projects:
+   - status change, decision, draft/section advanced, kill/defer/merge, new open question
+3. New intellectual projects/essay theses not in the list go under Candidates only.
+   Promote to Active ONLY if BOTH are true: clear design/thesis exists AND domains have been researched.
 4. Ignore tooling chatter, restated known status, and full transcript dumps.
-5. If nothing material changed, the file body must be exactly: `nothing`
+5. Write the file:
+   editorial/captures/claude/YYYY-MM-DD.md
+   (use today's date; overwrite if the same date already exists)
 
-### File output (required)
-Create or overwrite:
-
-`editorial/captures/claude/YYYY-MM-DD.md`
-
-Use today’s date in the filename. Content:
-
-```markdown
+FILE CONTENTS (exact structure)
 # Claude Editorial Delta – YYYY-MM-DD
 
 ## Named project updates
@@ -67,8 +66,29 @@ Use today’s date in the filename. Content:
 ## Kills / deferrals
 - …
 (or: none)
+
+If nothing material changed, the file body must be exactly:
+nothing
+
+GIT (required — do not stop at a PR)
+1. Stage only editorial/captures/claude/YYYY-MM-DD.md
+2. Commit message: Claude editorial delta: YYYY-MM-DD
+3. Push DIRECTLY to origin/main (not a claude/ branch, not a pull request, not draft).
+4. Verify the file exists on origin/main (git fetch && git show origin/main:editorial/captures/claude/YYYY-MM-DD.md).
+5. Only then finish.
+
+CONSTRAINTS
+- Do not edit editorial/status.md (Monday's Cursor agent does that).
+- Do not email anyone.
+- Do not open a PR.
+- Do not ask for confirmation.
+- Do not invent project progress.
 ```
 
-If you cannot write to the repo directly, output the full markdown in your reply so Felisa can save it to that path and push.
+---
 
-Do not write an essay. Do not brainstorm. Do not email. Deltas only.
+## After you create it
+
+1. Click **Run now** once to verify a file appears on `main` under `editorial/captures/claude/`.
+2. Leave it on the Sunday schedule.
+3. Monday’s Cursor Editorial Review will auto-read new capture files — no paste, no download.

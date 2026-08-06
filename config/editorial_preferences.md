@@ -18,15 +18,15 @@ Only update this file when delivery or project roster changes.
 - After applying an update, append acknowledgment note to that week's archive
 - Owner email replies outrank all other signals
 
-## Claude delta intake (local captures)
+## Claude delta intake (local captures — automatic)
 
 - Path: `editorial/captures/claude/`
 - Filename pattern: `YYYY-MM-DD.md`
-- Prompt: `editorial/claude_cowork_delta_prompt.md`
+- Producer: Claude Code cloud routine → commit + push to `main` (see `editorial/claude_cowork_delta_prompt.md`)
+- No manual save/email
 - Process files not listed under `Processed Claude captures` in status
 - Apply deltas with the same promotion gates as Cursor chat pull
 - Rank: below owner reply, above Cursor chat inference
-- Gmail label `Editorial/Claude-Updates` is unused for Claude (no Cowork email connector)
 
 ## Cursor chat pull
 
