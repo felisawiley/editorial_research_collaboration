@@ -25,6 +25,7 @@ Source: reconstructed from first weekly cycle + local drafts (not yet confirmed 
 - Dependencies: Bandwidth vs Penn/ACAM clinical transcript work
 - Progress log:
   - 2026-08-05: v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance — baseline
+  - 2026-08-06: blocked: no capture signal on Monday's follow-through
 
 ### 10-part Manufactured/Contrarian Mind Substack series
 - Status: Unknown — no local drafts recovered
@@ -119,7 +120,7 @@ append to it, never rewrite past entries.
 
 ## Recent Claude deltas
 
-(none yet)
+- 2026-08-06: No new capture signal this week (2026-08-06.md: "nothing"). Blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through ("revise clinical section against conversation-level medical sycophancy result").
 
 ---
 
@@ -131,7 +132,7 @@ append to it, never rewrite past entries.
 
 ## Processed Claude captures
 
-(none yet)
+- 2026-08-06.md
 
 ---
 
