@@ -13,7 +13,7 @@ Improve rigor and coherence. Do not brainstorm for volume. Do not agree by defau
 2. Read `editorial/status.md`
 3. Read the most recent file in `editorial/reviews/` (if any)
 4. **Owner email replies first:** Search Gmail for unreplied/unprocessed replies to subjects containing `Editorial Review`. Apply any new deltas to `editorial/status.md` (same rules as the Reply Intake Agent). Owner replies outrank every other signal.
-5. **Claude delta emails next:** Search Gmail for unprocessed messages with label `Editorial/Claude-Updates` (id `Label_22`) and/or subject containing `Claude Editorial Delta`. Apply named-project deltas and candidates using the same promotion gates as Cursor chat pull. Record message ids under `Processed Claude deltas` in status. Rank below owner reply, above Cursor inference.
+5. **Claude capture files next:** Read new files in `editorial/captures/claude/` (`YYYY-MM-DD.md`) not listed under `Processed Claude captures`. Apply named-project deltas and candidates using the same promotion gates as Cursor chat pull. Mark filenames processed in status. Rank below owner reply, above Cursor inference.
 6. **Cursor chat pull (narrow):** Follow the Cursor chat rules below. Update status with only the newest project deltas and any new candidate ideas.
 7. Research only the past 7 days for external developments that materially strengthen, weaken, or reframe an active idea.
 
@@ -49,7 +49,7 @@ If a recent chat develops a new idea:
 
 ### Priority / conflict
 1. Owner email reply deltas
-2. Claude Editorial Delta emails (label `Editorial/Claude-Updates`)
+2. Claude capture files in `editorial/captures/claude/`
 3. Explicit decisions in Cursor chats
 4. Inferred progress from Cursor chats
 5. External research

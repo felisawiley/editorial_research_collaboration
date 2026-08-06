@@ -92,7 +92,7 @@ Source: reconstructed from first weekly cycle + local drafts (not yet confirmed 
 
 ---
 
-## Processed Claude deltas
+## Processed Claude captures
 
 (none yet)
 

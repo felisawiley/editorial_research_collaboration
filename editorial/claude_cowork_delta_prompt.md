@@ -1,9 +1,18 @@
-# Claude Cowork — Editorial Delta (scheduled task)
+# Claude — Editorial Delta (local save)
 
-Paste this into a Claude Cowork **scheduled task**.
+No Gmail required.
 
-**Suggested schedule:** Sundays at 8:00 PM (before Monday 9:00 AM Editorial Review)  
-**Requires:** Gmail connector enabled in Cowork (send + label if available)
+**Suggested schedule:** Sundays ~8:00 PM (before Monday 9:00 AM Editorial Review)
+
+**Output destination (required):**
+`editorial/captures/claude/YYYY-MM-DD.md`
+in the repo `felisawiley/editorial_research_collaboration`
+
+### How to land the file
+Pick one:
+1. **Claude Code routine** with GitHub on this repo → write/commit the file to that path (best if available)
+2. **Cowork / chat** → produce the markdown → you save it into `editorial/captures/claude/` and push
+3. Manual paste into a new dated file in that folder
 
 ---
 
@@ -20,7 +29,7 @@ You are producing a weekly **editorial delta** for Felisa Wiley’s writing/rese
 - Standalone socio-technological essays
 
 ### What to do
-1. Review your recent Claude conversations / Project memory / files available to you from the past 7 days (or since the last delta you sent).
+1. Review your recent Claude conversations / Project memory / files available to you from the past 7 days (or since the last delta file).
 2. Extract **only the newest material deltas** for the named projects above:
    - status change
    - decision made
@@ -31,14 +40,16 @@ You are producing a weekly **editorial delta** for Felisa Wiley’s writing/rese
    - Add it under **Candidates** only
    - Do **not** promote to Active unless both are true: a clear design/thesis exists **and** domains have been researched
 4. Ignore tooling chatter, restated known status, and full transcript dumps.
-5. If nothing material changed, the body must be exactly: `nothing`
+5. If nothing material changed, the file body must be exactly: `nothing`
 
-### Email delivery (required)
-- **To:** felisawiley@gmail.com
-- **Subject:** `Claude Editorial Delta – YYYY-MM-DD` (use today’s date)
-- **Body format (plain text):**
+### File output (required)
+Create or overwrite:
 
-```
+`editorial/captures/claude/YYYY-MM-DD.md`
+
+Use today’s date in the filename. Content:
+
+```markdown
 # Claude Editorial Delta – YYYY-MM-DD
 
 ## Named project updates
@@ -58,6 +69,6 @@ You are producing a weekly **editorial delta** for Felisa Wiley’s writing/rese
 (or: none)
 ```
 
-Send the email via Gmail. If you can apply labels, apply `Editorial/Claude-Updates`. If you cannot label, still send with the exact subject above (a Gmail filter will label it).
+If you cannot write to the repo directly, output the full markdown in your reply so Felisa can save it to that path and push.
 
-Do not write an essay. Do not brainstorm. Deltas only.
+Do not write an essay. Do not brainstorm. Do not email. Deltas only.
