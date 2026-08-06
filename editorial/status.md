@@ -80,7 +80,19 @@ Source: reconstructed from first weekly cycle + local drafts (not yet confirmed 
 
 ---
 
+## Recent Claude deltas
+
+(none yet)
+
+---
+
 ## Processed replies
+
+(none yet)
+
+---
+
+## Processed Claude deltas
 
 (none yet)
 
