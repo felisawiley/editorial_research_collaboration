@@ -30,6 +30,15 @@ Sunday owns continuity. Monday owns judgment. Do not double-merge status.
 - Owner replies outrank Sunday’s summary for those points only
 - Never delete or rewrite past Progress log lines
 
+## Naming (no opaque shorthand)
+
+Reviews, follow-through asks, Open clarifications, and kill/keep prompts must name projects so a tired reader still knows what they are.
+
+- Use the **full Active project title** from the roster below (plus form when useful: research paper / Substack series / book / essays).
+- Version labels only as a suffix after the title — e.g. `The Manufactured Agreeable Mind (research paper) v5`, never bare `Paper v5` / `Paperv5` / `the paper`.
+- Candidates and idea-tree nodes: use their full working title, not initials or codenames alone.
+- If two projects could share a shorthand, always disambiguate with the full name.
+
 ## Active projects
 
 - The Manufactured Agreeable Mind (research paper)

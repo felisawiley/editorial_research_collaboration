@@ -11,7 +11,7 @@ digging through git history.
 
 Last status update: 2026-08-06
 Last chat scan: 2026-08-06
-Source: owner reply to Editorial Review – 2026-08-06 + chat correction (do not kill paper v5)
+Source: owner reply to Editorial Review – 2026-08-06 + chat correction (do not kill The Manufactured Agreeable Mind v5)
 
 ---
 

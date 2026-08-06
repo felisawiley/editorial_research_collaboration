@@ -69,19 +69,27 @@ Format as a **plain email**, not a chat comment or markdown doc:
 - Short paragraphs; use `1. 2. 3.` or `•` for lists
 - Closing separator: an em dash line `—` (not `---`)
 
+**Naming — be explicit enough to remind:**
+- Always use full project titles from `config/editorial_preferences.md` (e.g. `The Manufactured Agreeable Mind (research paper)`).
+- Never ask for kills/keeps/decisions with opaque shorthand (`Paper v5`, `Paperv5`, `the book`, initials-only).
+- Version/draft labels come **after** the full title: `The Manufactured Agreeable Mind (research paper) v5 — pre-submission or mid-revision?`
+- Same rule in Follow through, Blends, Three questions, and any Open clarifications you write back to status.
+
 Structure exactly these section titles, in order:
 
 How things are progressing
 5–8 lines. Drawn from Sunday’s current-state + newest Progress log tags.
 Only movement, blockage, promotions, and closures. No invented progress.
+Name projects in full when first mentioned in the email body.
 
 Follow through this week
-Exactly **one** concrete next action. Name the project/destination.
+Exactly **one** concrete next action. Name the project/destination **in full**.
 One-sentence counterargument (why this might be the wrong follow-through).
 
 Blends (new ↔ old)
 2–4 lines max. Which new angles/candidates attach to which existing theses — and which should stay separate.
 If nothing blends cleanly: say “none this week.”
+Parent and child ideas named explicitly.
 
 What actually mattered outside your work
 3 bullets max. External research only if it moves an active thread. Skip generic AI news.
@@ -91,6 +99,7 @@ The contradiction
 
 Three questions
 Uncertainty only. Prefer questions that expose whether a blend is real, a follow-through is blocked, or a Stage claim is falsifiable.
+Each question must name the project/idea in full if a decision hangs on it.
 
 Closing (required)
 —
