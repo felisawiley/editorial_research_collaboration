@@ -4,6 +4,7 @@ Living baseline for the Editorial Research Director.
 Updated by reply intake and by the weekly agent when applying unreplied updates.
 
 Last status update: 2026-08-05
+Last chat scan: never
 Source: reconstructed from first weekly cycle + local drafts (not yet confirmed by reply)
 
 ---
@@ -45,6 +46,19 @@ Source: reconstructed from first weekly cycle + local drafts (not yet confirmed 
 - Status: Pipeline empty (from system view)
 - Last known progress: —
 - Next move: Optional — “correct answer that concedes” only if public writing is wanted alongside paper revision
+
+---
+
+## Candidate projects
+
+(Promoted to Active only when design exists **and** domains researched.)
+
+### Asymmetric Resonance (provisional)
+- One-line thesis: TBD
+- Design exists: no (definition card only, 2026-08-05)
+- Domains researched: none recorded
+- Last chat/file signal: editorial definition card in Downloads
+- Gate: do not promote until thesis + research exist
 
 ---
 

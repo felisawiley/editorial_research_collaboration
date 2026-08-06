@@ -37,10 +37,12 @@ You only absorb deltas into `editorial/status.md`.
 
 - Felisa is the source of truth for her own progress
 - Prefer her wording for decisions and kills
+- Email reply deltas outrank Cursor chat inference when both conflict
 - Do not re-open ideas she marked archived/deferred unless she resurfaces them
 - If a reply is ambiguous, update only what is clear and note the ambiguity under `Open clarifications`
 - Never send a new full Editorial Review from this agent
 - A one-line acknowledgment reply in the same thread is allowed: `Got it — status updated.`
+- Do not promote Candidate projects to Active from a vague reply unless she explicitly adds a project or confirms design + research are done
 
 ---
 
