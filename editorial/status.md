@@ -168,6 +168,16 @@ append to it, never rewrite past entries.
 
 ## Do not resurface
 
-(Items Fee asked to stop bringing up. Monday must not recommend, blend, or re-ask these. Sunday adds lines from owner captures that say `do not resurface: …`. Only remove if an owner capture explicitly resurrects the item.)
+(Active one-week hold. Monday must not recommend these. Format:
+`- <full title> — reason (added: YYYY-MM-DD)`
+Sunday: if `added:` is from a **prior** calendar week (before this Sunday’s week), remove the bullet here, append it under **Permanently suppressed**, and mark the matching idea/candidate `killed:` / move project to Closed if appropriate — so it never returns in Monday asks.)
+
+(none yet)
+
+---
+
+## Permanently suppressed
+
+(Former Do not resurface items, moved here the Sunday after they were added. Monday must never recommend these unless an owner capture explicitly resurrects them. Append only.)
 
 (none yet)
