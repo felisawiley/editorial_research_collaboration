@@ -1,9 +1,8 @@
 # Owner reply captures (Gmail → GitHub → Sunday Claude)
 
-Monday Cursor **automatically** saves your email replies here as `YYYY-MM-DD.md` and pushes to `main`.
+**Sunday 5:45 PM** Cursor job (`agents/editorial_owner_capture_sync.md`) automatically saves your email replies here as `YYYY-MM-DD.md` and pushes to `main`.
 
-- Same calendar day → **append** into the same file (don’t lose earlier replies that day).
-- Sunday Claude merges these into `status.md` (owner outranks `captures/claude/`).
-- Lines like `do not resurface: <full title> — reason` become permanent bans on Monday’s recommendations.
-
-This folder is empty of dated files until a Monday job has processed at least one Gmail reply.
+- Same calendar day → **append** into the same file
+- Run Claude status merge **after** 5:45 PM so it sees this week’s replies
+- Monday may also append late replies as backup
+- `do not resurface: …` lines become bans on later Monday recommendations
