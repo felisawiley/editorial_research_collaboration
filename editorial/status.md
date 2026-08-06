@@ -28,6 +28,7 @@ Source: owner replies to Editorial Review – 2026-08-06 (essay titles; demote A
   - 2026-08-06: blocked: no capture signal on Monday's follow-through
   - 2026-08-06: owner reply said "Kill Paperv5" then corrected — do **not** kill The Manufactured Agreeable Mind; "Paper v5" was opaque shorthand and was misread
   - 2026-08-06: continued: owner confirmed v5 is pre-submission and nowhere near ready; flagged need to research free/diamond-OA venues once revision is complete (Monday's follow-through venue shortlist not yet delivered)
+  - 2026-08-06: blocked: no capture signal on Monday's newest follow-through ask (shortlist of 3–5 free/diamond-OA venues + one preprint path for v5, once revised) — this week's captures/claude and captures/owner files (2026-08-06.md) were already merged in a prior pass; no new capture material arrived to advance it
 
 ### Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - Status: Active drafting/scheduling underway (personal essays)
@@ -132,6 +133,7 @@ append to it, never rewrite past entries.
 
 - 2026-08-06: No new capture signal this week (2026-08-06.md: "nothing"). Blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through ("revise clinical section against conversation-level medical sycophancy result").
 - 2026-08-06 (weekly merge): Merged remaining Progress-log gap flagged by Monday — owner capture's confirmation that v5 is pre-submission/nowhere near ready plus the free-OA-venue research need now logged against The Manufactured Agreeable Mind. No new Claude or owner captures this week. Monday's follow-through (3–5 free/diamond-OA venue shortlist + preprint path) was touched (continued) but not yet delivered — still open.
+- 2026-08-06 (weekly merge, second pass): Zero new capture files in captures/claude/ or captures/owner/ (2026-08-06.md in both already listed under Processed captures from the prior pass). Newest review (reviews/2026-08-06.md) reiterates the venue-shortlist follow-through for The Manufactured Agreeable Mind; blocked: no capture signal on it this run. No closures, no new candidates, no promotions.
 
 ---
 
