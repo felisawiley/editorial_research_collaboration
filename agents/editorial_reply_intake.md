@@ -14,16 +14,15 @@ You do not write a new weekly review unless explicitly asked.
 3. Search Gmail for threads with subject containing `Editorial Review` newer than the `Last status update` date (or last 14 days if missing)
 4. For each thread, get the full thread
 5. Identify messages from Felisa that are replies to a review (not the outbound review itself)
-6. Skip any reply whose dated file already exists at `editorial/captures/owner/YYYY-MM-DD.md` or is listed under **Processed owner captures**
-7. **Required:** Write or **append** `editorial/captures/owner/YYYY-MM-DD.md` with the reply body (use reply date). Same calendar day → append; do not overwrite earlier text. If body is only “nothing”, append/write `nothing`. Preserve any `do not resurface: …` lines verbatim.
-8. Optionally also copy to `editorial/replies/YYYY-MM-DD.md` for a human-readable archive
-9. Do **not** fully rewrite Progress logs or Do not resurface here — Sunday Claude merges owner captures into tagged Progress log lines and the Do not resurface list. You may note under **Recent replies** that a file was archived pending Sunday merge.
+6. Skip any reply whose content is already fully present in `editorial/captures/owner/YYYY-MM-DD.md` and listed under **Processed owner captures** (same-day new replies must still be **appended**)
+7. **Required:** Write or **append** `editorial/captures/owner/YYYY-MM-DD.md` with the reply body (use reply date). Same calendar day → append; do not overwrite earlier text. If body is only “nothing”, append/write `nothing`. Preserve any `do not resurface: …` lines verbatim. That file is the single owner-reply inbox Sunday Claude merges.
+8. Do **not** fully rewrite Progress logs or Do not resurface here — Sunday Claude merges owner captures into tagged Progress log lines and the Do not resurface list. You may note under **Recent replies** that a file was archived pending Sunday merge.
 
 ### B — (Optional) Claude captures already on disk
 Only if explicitly asked to pre-merge: leave Claude files for Sunday. Do not steal Sunday’s merge job.
 
-10. Commit all new `captures/owner/` files: `Editorial status: owner capture YYYY-MM-DD`
-11. Push to `origin main`
+9. Commit all new `captures/owner/` files: `Editorial status: owner capture YYYY-MM-DD`
+10. Push to `origin main`
 
 ---
 

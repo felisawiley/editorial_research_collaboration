@@ -24,11 +24,11 @@ Next Monday Cursor  ──reads──►  status.md  →  new Editorial Review e
 
 | Day | Agent | Job |
 |---|---|---|
-| **Monday** | Cursor | Read Sunday’s `status.md`; skeptical editorial email; **push any new Gmail replies into `captures/owner/`**; never recommend items on **Do not resurface** |
+| **Monday** | Cursor | Read Sunday’s `status.md`; skeptical editorial email; **automatically push Gmail replies into `captures/owner/`**; never recommend **Do not resurface** items |
 | **Sunday** | Claude | Merge owner + Claude captures into `status.md`; tag Progress logs; mark blocked follow-through; in-app digest |
-| **You** | Email reply | Progress, decisions, kills, and **“do not resurface: …”** lines |
+| **You** | Email reply | Progress, decisions, kills, and **`do not resurface: …`** lines |
 
-## Replies → GitHub (important)
+## Replies → GitHub
 
 Replies are **not** emailed into GitHub by Gmail itself.
 
@@ -36,31 +36,45 @@ Monday Cursor **automatically** copies each new reply into:
 
 `editorial/captures/owner/YYYY-MM-DD.md`
 
-and pushes to `main`. Same calendar day → same file (append more replies that day). Sunday Claude then merges those files into `status.md`.
+and pushes to `main`. Same calendar day → **append** into that day’s file. Sunday Claude then merges those files into `status.md`.
 
-If Monday hasn’t run since you replied, the owner folder may still be empty — the dump happens on the Monday job (or a reply-intake run), not the instant you hit send.
+If Monday hasn’t run since you replied, the owner folder may still lack a new dated file — the dump happens on the Monday job (or reply-intake), not the instant you hit send in Gmail.
 
 ## Do not resurface
 
-Monday’s email asks: anything that should not come back?
+Monday’s email always asks: anything that should not come back?
 
-Reply with lines like:
+Reply with:
 
-`do not resurface: EU labeling as central thesis hook — reason`
+`do not resurface: <full title> — reason`
 
-Sunday merges those into `status.md` → **## Do not resurface**.  
+or `do not resurface: nothing`
+
+Sunday adds matches to `status.md` → **## Do not resurface**.  
 Later Mondays **must not** recommend, blend, or re-open those items unless you explicitly revive them.
 
-## Key paths
+## Layout
 
-| Path | Purpose |
-|---|---|
-| `editorial/status.md` | Living current state + Progress logs + Do not resurface |
-| `editorial/captures/owner/` | Your email replies (GitHub bridge for Claude) |
-| `editorial/captures/claude/` | Claude conversation deltas |
-| `editorial/reviews/` | Sent Monday Editorial Review emails |
-| `agents/editorial_weekly.md` | Monday Cursor instructions |
-| `config/editorial_preferences.md` | Pipeline + naming rules |
+```
+agents/                     Agent prompts (editorial weekly, reply intake, …)
+config/                     Preferences (editorial + briefing)
+editorial/
+  status.md                 Living baseline + Progress logs + Do not resurface
+  reviews/                  Monday Editorial Review archive (YYYY-MM-DD.md)
+  captures/
+    owner/                  Your Gmail replies (GitHub bridge for Sunday Claude)
+    claude/                 Claude conversation deltas
+briefings/                  Daily briefing archive
+logs/                       Feedback / watch logs
+scripts/                    Local helpers
+```
+
+## Key files
+
+- `config/editorial_preferences.md` — delivery, roster, naming, do-not-resurface rules
+- `agents/editorial_weekly.md` — Monday Editorial Research Director
+- `agents/editorial_reply_intake.md` — Gmail → `captures/owner/` bridge
+- `editorial/captures/owner/SUNDAY_CLAUDE_ADDENDUM.md` — paste into Sunday Claude gather step
 
 ## Constraints
 

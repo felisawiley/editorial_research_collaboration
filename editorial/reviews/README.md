@@ -1,3 +1,7 @@
-# Editorial Reviews Archive
+# Monday Editorial Review archive
 
-Weekly Editorial Review emails are saved here as `YYYY-MM-DD.md`.
+Sent Monday emails are saved here as `YYYY-MM-DD.md` (same body as the email).
+
+Sunday Claude reads the newest file’s **Follow through this week** target to mark `continued:` / `resolved:` / `blocked:`.
+
+See repo root `README.md` for the full workflow.
