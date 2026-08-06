@@ -130,6 +130,12 @@ append to it, never rewrite past entries.
 
 ---
 
+## Processed owner captures
+
+(none yet)
+
+---
+
 ## Processed Claude captures
 
 - 2026-08-06.md

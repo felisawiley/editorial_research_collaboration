@@ -33,10 +33,13 @@ Only touch `editorial/status.md` for: owner email-reply overrides, and optional 
    - **Idea tree** (nested branches + state tags)
    - **Closed projects** moved this week
 3. Read the most recent file in `editorial/reviews/` (if any) — do not repeat its One move unless new evidence changes it
-4. **Owner email replies (optional override):** Search Gmail for unreplied replies to `Editorial Review`. If present, treat as truth above Sunday’s summary for those points only. Apply narrowly; append a Progress log line only if Sunday did not already capture it — never delete or edit past log lines.
+4. **Owner email replies → GitHub (required if any exist):** Search Gmail for unreplied replies to subject containing `Editorial Review` not already saved under `editorial/captures/owner/`. For each new owner reply:
+   - Write `editorial/captures/owner/YYYY-MM-DD.md` with the reply body (and date). If only “nothing”, write exactly `nothing`.
+   - Commit/push that file on `main` so Sunday Claude can merge it next run.
+   - For *this* Monday review only, treat those replies as truth above Sunday’s summary for those points; do not rewrite Progress logs (Sunday will append tagged lines when it merges the owner capture).
 5. Research only the past 7 days for external developments that materially strengthen, weaken, or reframe an **active** idea or a live Progress-log thread.
 
-Skip Claude capture re-merge and Cursor chat status-mining unless `status.md` is clearly stale (Last status update older than 8 days). Sunday is the progress source of truth.
+Skip Claude capture re-merge and Cursor chat status-mining unless `status.md` is clearly stale (Last status update older than 8 days). Sunday is the progress-log source of truth; Monday’s job is judgment + bridging Gmail → `captures/owner/`.
 
 ---
 
@@ -95,13 +98,14 @@ Your reply overrides status for next week; Sunday Claude continues the Progress 
 
 ## Delivery
 
-1. Touch `editorial/status.md` only for owner-reply overrides / Open clarifications (preserve all Progress logs)
-2. Save full markdown to `editorial/reviews/YYYY-MM-DD.md`
-3. Email to the address in preferences
+1. If any new owner Gmail replies: write `editorial/captures/owner/YYYY-MM-DD.md` and include it in the commit (required — this is how Sunday Claude picks up replies)
+2. Touch `editorial/status.md` only for Open clarifications notes if needed (preserve all Progress logs; prefer leaving Progress-log appends to Sunday’s merge of owner captures)
+3. Save full markdown to `editorial/reviews/YYYY-MM-DD.md`
+4. Email to the address in preferences
    - Subject: `Editorial Review – YYYY-MM-DD`
    - Body: the review including the closing reply prompt
-4. Commit: `Editorial review: YYYY-MM-DD`
-5. Push if remote is configured
+5. Commit: `Editorial review: YYYY-MM-DD` (include any new `captures/owner/` files)
+6. Push if remote is configured
 
 Do not rewrite `config/briefing_preferences.md`.
 Do not modify daily briefing behavior.

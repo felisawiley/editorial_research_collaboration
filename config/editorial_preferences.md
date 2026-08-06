@@ -8,11 +8,11 @@ Only update this file when delivery or project roster changes.
 
 | When | Who | Job |
 |---|---|---|
-| Sunday | Claude routine | Refresh current-state fields; append Progress log (`continued` / `new angle` / `resolved` / `new` / `closed`); update Idea tree; weekly reminder |
-| Monday | Cursor Editorial Review | Read Sunday’s `editorial/status.md` as the progress feed; recommend follow-through; name new↔old blends; add external challenge |
-| Anytime | Owner email reply to Editorial Review | Overrides specific points; does not erase Progress log history |
+| Sunday | Claude routine | Merge `captures/owner/` then `captures/claude/` into `status.md` (Progress logs, idea tree); weekly reminder |
+| Monday | Cursor Editorial Review | Read Sunday’s `status.md`; write review; email Fee; if Fee replied in Gmail, write `captures/owner/YYYY-MM-DD.md` and push so Sunday sees it |
+| Anytime | Owner email reply to Editorial Review | Lands in Gmail → Monday dumps to GitHub `editorial/captures/owner/` → Sunday merges |
 
-Sunday owns continuity. Monday owns judgment. Do not double-merge status.
+Sunday owns continuity. Monday owns judgment + bridging Gmail replies into GitHub. Do not double-merge the same capture twice (use Processed lists).
 
 ---
 
@@ -22,12 +22,13 @@ Sunday owns continuity. Monday owns judgment. Do not double-merge status.
 - Subject: `Editorial Review – YYYY-MM-DD`
 - Archive: `editorial/reviews/YYYY-MM-DD.md`
 
-## Reply intake
+## Owner reply → GitHub (required)
 
-- Match threads with subject containing: `Editorial Review`
-- Treat the newest message from Felisa as an override
-- Valid replies include deltas or `nothing`
-- Owner replies outrank Sunday’s summary for those points only
+- Gmail: threads with subject containing `Editorial Review`
+- Write raw/structured reply to: `editorial/captures/owner/YYYY-MM-DD.md`
+- Push on `main` so Sunday Claude can merge it
+- Track under **Processed owner captures** / **Recent replies** in `status.md` when merged (Sunday) or when Monday archives
+- Owner outranks Claude captures
 - Never delete or rewrite past Progress log lines
 
 ## Active projects
