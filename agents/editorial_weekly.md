@@ -63,31 +63,37 @@ From Progress logs + Idea tree, extract:
 
 Hard limit: ~400–600 words.
 
-Structure exactly:
+Format as a **plain email**, not a chat comment or markdown doc:
+- Title line: `Editorial Review — Month D, YYYY`
+- Section titles as plain lines (no `#` / `###`, no code fences, no backtick status tags in the body)
+- Short paragraphs; use `1. 2. 3.` or `•` for lists
+- Closing separator: an em dash line `—` (not `---`)
 
-### How things are progressing
+Structure exactly these section titles, in order:
+
+How things are progressing
 5–8 lines. Drawn from Sunday’s current-state + newest Progress log tags.
 Only movement, blockage, promotions, and closures. No invented progress.
 
-### Follow through this week
+Follow through this week
 Exactly **one** concrete next action. Name the project/destination.
 One-sentence counterargument (why this might be the wrong follow-through).
 
-### Blends (new ↔ old)
+Blends (new ↔ old)
 2–4 lines max. Which new angles/candidates attach to which existing theses — and which should stay separate.
 If nothing blends cleanly: say “none this week.”
 
-### What actually mattered outside your work
+What actually mattered outside your work
 3 bullets max. External research only if it moves an active thread. Skip generic AI news.
 
-### The contradiction
+The contradiction
 1 short paragraph. Prefer a tension inside this week’s Progress log + outside signal.
 
-### Three questions
+Three questions
 Uncertainty only. Prefer questions that expose whether a blend is real, a follow-through is blocked, or a Stage claim is falsifiable.
 
-### Closing (required)
----
+Closing (required)
+—
 Reply with anything that changed since Sunday’s update: corrections, decisions, kills, or “nothing.”
 Your reply overrides status for next week; Sunday Claude continues the Progress log.
 
@@ -96,10 +102,11 @@ Your reply overrides status for next week; Sunday Claude continues the Progress 
 ## Delivery
 
 1. Touch `editorial/status.md` only for owner-reply overrides / Open clarifications (preserve all Progress logs)
-2. Save full markdown to `editorial/reviews/YYYY-MM-DD.md`
+2. Save full email text to `editorial/reviews/YYYY-MM-DD.md` (same body as the email)
 3. Email to the address in preferences
    - Subject: `Editorial Review – YYYY-MM-DD`
    - Body: the review including the closing reply prompt
+   - Prefer HTML with real `<h2>` section headers + plain-text alternative; never leave raw `###` markdown in the inbox
 4. Commit: `Editorial review: YYYY-MM-DD`
 5. Push if remote is configured
 
