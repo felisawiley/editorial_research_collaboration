@@ -5,79 +5,62 @@ High-level weekly workflow for Fee’s writing/research system.
 ## Who does what
 
 ```text
-You reply to Monday’s email (Gmail)
+You reply to Monday’s email (Gmail) anytime during the week
         │
         ▼
-Monday Cursor  ──writes──►  editorial/captures/owner/YYYY-MM-DD.md  (GitHub)
+Sunday 5:45 PM Cursor  ──pulls Gmail──►  editorial/captures/owner/YYYY-MM-DD.md  (push main)
         │
-        │  also emails you the Editorial Review
-        │  also archives editorial/reviews/YYYY-MM-DD.md
         ▼
-Sunday Claude  ──reads──►  captures/owner/ + captures/claude/
+Sunday (later) Claude  ──reads──►  captures/owner/ + captures/claude/
         │
         │  merges into editorial/status.md
-        │  (current state + append-only Progress logs)
         │  respects "## Do not resurface"
         ▼
-Next Monday Cursor  ──reads──►  status.md  →  new Editorial Review email
+Monday 9:00 AM Cursor  ──reads──►  status.md  →  emails Editorial Review
+        │
+        └── also catches any late Gmail replies into captures/owner/ (backup)
 ```
 
-| Day | Agent | Job |
+| When | Who | Job |
 |---|---|---|
-| **Monday** | Cursor | Read Sunday’s `status.md`; skeptical editorial email; **automatically push Gmail replies into `captures/owner/`**; never recommend **Do not resurface** items |
-| **Sunday** | Claude | Merge owner + Claude captures into `status.md`; tag Progress logs; mark blocked follow-through; in-app digest |
-| **You** | Email reply | Progress, decisions, kills, and **`do not resurface: …`** lines |
+| **Sun 5:45 PM** | Cursor | **Owner capture sync** — Gmail replies → `captures/owner/` → push |
+| **Sunday (after 5:45)** | Claude | Merge owner + Claude captures into `status.md`; Progress logs; digest |
+| **Mon 9:00 AM** | Cursor | Editorial Review email; never recommend **Do not resurface**; backup reply dump |
+| **You** | Email reply | Progress, decisions, kills, `do not resurface: …` |
 
 ## Replies → GitHub
 
-Replies are **not** emailed into GitHub by Gmail itself.
-
-Monday Cursor **automatically** copies each new reply into:
+Gmail does not push by itself. **Sunday 5:45 PM** Cursor job automatically copies new replies into:
 
 `editorial/captures/owner/YYYY-MM-DD.md`
 
-and pushes to `main`. Same calendar day → **append** into that day’s file. Sunday Claude then merges those files into `status.md`.
+and pushes `main` (same day → append). Run Claude’s status merge **after** that so Sunday sees this week’s replies.
 
-If Monday hasn’t run since you replied, the owner folder may still lack a new dated file — the dump happens on the Monday job (or reply-intake), not the instant you hit send in Gmail.
+Monday still dumps any stragglers as backup.
 
 ## Do not resurface
 
-Monday’s email always asks: anything that should not come back?
+Monday’s email asks: anything that should not come back?
 
-Reply with:
+`do not resurface: <full title> — reason` or `do not resurface: nothing`
 
-`do not resurface: <full title> — reason`
-
-or `do not resurface: nothing`
-
-Sunday adds matches to `status.md` → **## Do not resurface**.  
-Later Mondays **must not** recommend, blend, or re-open those items unless you explicitly revive them.
+Sunday Claude adds those to `status.md` → **## Do not resurface**. Later Mondays must not bring them back.
 
 ## Layout
 
 ```
-agents/                     Agent prompts (editorial weekly, reply intake, …)
-config/                     Preferences (editorial + briefing)
+agents/
+  editorial_weekly.md              Monday Editorial Review
+  editorial_owner_capture_sync.md  Sunday 5:45 PM Gmail → GitHub
+  editorial_reply_intake.md         Shared reply-bridge rules
 editorial/
-  status.md                 Living baseline + Progress logs + Do not resurface
-  reviews/                  Monday Editorial Review archive (YYYY-MM-DD.md)
-  captures/
-    owner/                  Your Gmail replies (GitHub bridge for Sunday Claude)
-    claude/                 Claude conversation deltas
-briefings/                  Daily briefing archive
-logs/                       Feedback / watch logs
-scripts/                    Local helpers
+  status.md
+  reviews/
+  captures/owner/                  Your Gmail replies
+  captures/claude/                 Claude deltas
 ```
-
-## Key files
-
-- `config/editorial_preferences.md` — delivery, roster, naming, do-not-resurface rules
-- `agents/editorial_weekly.md` — Monday Editorial Research Director
-- `agents/editorial_reply_intake.md` — Gmail → `captures/owner/` bridge
-- `editorial/captures/owner/SUNDAY_CLAUDE_ADDENDUM.md` — paste into Sunday Claude gather step
 
 ## Constraints
 
-- Sunday owns Progress-log history (append only).
-- Monday owns judgment + Gmail → `captures/owner/` + email.
+- Sunday Claude owns Progress-log history (append only); run it after the 5:45 PM sync.
 - Never invent progress. Never re-surface Do not resurface items.

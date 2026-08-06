@@ -8,11 +8,12 @@ Only update this file when delivery or project roster changes.
 
 | When | Who | Job |
 |---|---|---|
-| Sunday | Claude routine | Merge `captures/owner/` then `captures/claude/` into `status.md` (Progress logs, idea tree); weekly reminder |
-| Monday | Cursor Editorial Review | Read Sunday’s `status.md`; write review; email Fee; if Fee replied in Gmail, write `captures/owner/YYYY-MM-DD.md` and push so Sunday sees it |
-| Anytime | Owner email reply to Editorial Review | Lands in Gmail → Monday dumps to GitHub `editorial/captures/owner/` → Sunday merges |
+| **Sunday 5:45 PM** | Cursor (`agents/editorial_owner_capture_sync.md`) | Pull Gmail `Editorial Review` replies → append `editorial/captures/owner/YYYY-MM-DD.md` → push `main` |
+| **Sunday (after 5:45 PM)** | Claude routine | Merge `captures/owner/` then `captures/claude/` into `status.md`; Progress logs; Do not resurface; digest |
+| **Monday 9:00 AM** | Cursor (`agents/editorial_weekly.md`) | Read `status.md`; email Editorial Review; backup dump of any late Gmail replies to `captures/owner/` |
+| Anytime | You | Reply in Gmail (progress / kills / `do not resurface: …`) |
 
-Sunday owns continuity. Monday owns judgment + bridging Gmail replies into GitHub. Do not double-merge the same capture twice (use Processed lists).
+Sunday Claude should run **after** the 5:45 PM owner sync so same-week replies are on GitHub.
 
 ---
 
@@ -22,30 +23,27 @@ Sunday owns continuity. Monday owns judgment + bridging Gmail replies into GitHu
 - Subject: `Editorial Review – YYYY-MM-DD`
 - Archive: `editorial/reviews/YYYY-MM-DD.md`
 
-## Owner reply → GitHub (automatic on Monday)
+## Owner reply → GitHub
 
-- Gmail: threads with subject containing `Editorial Review`
-- Monday **must** write/append: `editorial/captures/owner/YYYY-MM-DD.md` and push `main`
-- Same day → append further replies into that day’s file
-- Sunday merges into Progress logs + **Do not resurface**
+- **Primary:** Sunday 5:45 PM Cursor sync (`editorial_owner_capture_sync.md`)
+- **Backup:** Monday Editorial Review job
+- Gmail subject contains: `Editorial Review`
+- Path: `editorial/captures/owner/YYYY-MM-DD.md` (append same day)
+- Sunday Claude merges into Progress logs + **Do not resurface**
 - Owner outranks Claude captures
-- Never delete or rewrite past Progress log lines
 
 ## Do not resurface
 
 - Monday email always asks: anything to stop bringing up?
-- Owner replies with `do not resurface: <full title> — reason` (or `do not resurface: nothing`)
-- Sunday adds to `status.md` → `## Do not resurface`
-- Later Mondays never recommend those items unless owner explicitly resurrects them
+- Owner: `do not resurface: <full title> — reason` or `do not resurface: nothing`
+- Sunday Claude adds to `status.md` → `## Do not resurface`
+- Later Mondays never recommend those items unless owner resurrects them
 
 ## Naming (no opaque shorthand)
 
-Reviews, follow-through asks, Open clarifications, and kill/keep prompts must name projects so a tired reader still knows what they are.
-
-- Use the **full Active project title** from the roster below (plus form when useful: research paper / Substack series / book / essays).
-- Version labels only as a suffix after the title — e.g. `The Manufactured Agreeable Mind (research paper) v5`, never bare `Paper v5` / `Paperv5` / `the paper`.
-- Candidates and idea-tree nodes: use their full working title, not initials or codenames alone.
-- If two projects could share a shorthand, always disambiguate with the full name.
+- Use the **full Active project title** from the roster below.
+- Version labels only as a suffix — e.g. `The Manufactured Agreeable Mind (research paper) v5`
+- Candidates / idea-tree nodes: full working title
 
 ## Active projects
 
