@@ -27,11 +27,11 @@ Source: reconstructed from first weekly cycle + local drafts (not yet confirmed 
   - 2026-08-05: v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance — baseline
   - 2026-08-06: blocked: no capture signal on Monday's follow-through
 
-### 10-part Manufactured/Contrarian Mind Substack series
+### Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - Status: Unknown — no local drafts recovered
 - Last known progress: —
-- Open questions: Which parts exist? Any published?
-- Next move: Awaiting owner update
+- Open questions: Which parts exist? Any published? Is this distinct from The Manufactured Agreeable Mind (paper) and The Contrarian (book), or a spinoff of one of them?
+- Next move: Awaiting owner update — confirm relationship to the paper/book projects
 - Progress log:
   - 2026-08-05: No local drafts recovered — baseline
 
