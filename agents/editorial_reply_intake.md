@@ -21,8 +21,8 @@ You do not write a new weekly review unless explicitly asked.
 ### B — (Optional) Claude captures already on disk
 Only if explicitly asked to pre-merge: leave Claude files for Sunday. Do not steal Sunday’s merge job.
 
-10. Commit all new `captures/owner/` files: `Editorial status: owner capture YYYY-MM-DD`
-11. Push to `origin main`
+9. Commit all new `captures/owner/` files: `Editorial status: owner capture YYYY-MM-DD`
+10. Push to `origin main`
 
 ---
 
