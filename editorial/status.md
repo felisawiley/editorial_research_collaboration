@@ -49,6 +49,14 @@ Source: reconstructed from first weekly cycle + local drafts (not yet confirmed 
 
 ---
 
+## Closed projects
+
+(Projects move here once explicitly marked done, shipped, or abandoned — kept for history, out of the active view.)
+
+(none yet)
+
+---
+
 ## Candidate projects
 
 (Promoted to Active only when design exists **and** domains researched.)
@@ -62,15 +70,18 @@ Source: reconstructed from first weekly cycle + local drafts (not yet confirmed 
 
 ---
 
-## Idea lifecycle
+## Idea tree
 
-| Idea | State | Notes |
-|---|---|---|
-| Filter bubbles were the wrong DV | Advanced | Core paper move |
-| Sycophancy as simple Stage-1 story | Expanded | Modes + conversation factors complicate it |
-| Clinical AI attenuates reconsideration | Advanced | Stronger Stage 1–2 evidence; Stage 4 open |
-| Enterprise policy-agents as twin of cognitive compliance | Provisional | Park for Contrarian/Voiceless, not paper |
-| EU labeling as central thesis hook | Deferred | Disclosure ≠ epistemic friction |
+Nested list — a sub-idea that spins off an existing one is indented under its
+parent instead of added as a new top-level line, so you can see how ideas
+branch over time. States: New / Provisional / Advanced / Expanded / Deferred /
+Killed.
+
+- **Filter bubbles were the wrong DV** [Advanced] — Core paper move
+- **Sycophancy as simple Stage-1 story** [Expanded] — Modes + conversation factors complicate it
+- **Clinical AI attenuates reconsideration** [Advanced] — Stronger Stage 1–2 evidence; Stage 4 open
+- **Enterprise policy-agents as twin of cognitive compliance** [Provisional] — Park for Contrarian/Voiceless, not paper
+- **EU labeling as central thesis hook** [Deferred] — Disclosure ≠ epistemic friction
 
 ---
 
