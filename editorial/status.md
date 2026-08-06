@@ -153,3 +153,11 @@ append to it, never rewrite past entries.
 - Relation of the 6 scheduled personal essays to Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - Confirm whether Asymmetric Resonance is essay-only for now or still a candidate project/book signal
 - Confirm whether The Manufactured Agreeable Mind (research paper) v5 is pre-submission or mid-revision (still open — kill withdrawn)
+
+---
+
+## Do not resurface
+
+(Items Fee asked to stop bringing up. Monday must not recommend, blend, or re-ask these. Sunday adds lines from owner captures that say `do not resurface: …`. Only remove if an owner capture explicitly resurrects the item.)
+
+(none yet)

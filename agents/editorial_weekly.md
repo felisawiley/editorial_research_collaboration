@@ -33,10 +33,11 @@ Only touch `editorial/status.md` for: owner email-reply overrides, and optional 
    - **Idea tree** (nested branches + state tags)
    - **Closed projects** moved this week
 3. Read the most recent file in `editorial/reviews/` (if any) — do not repeat its One move unless new evidence changes it
-4. **Owner email replies → GitHub (required if any exist):** Search Gmail for unreplied replies to subject containing `Editorial Review` not already saved under `editorial/captures/owner/`. For each new owner reply:
-   - Write `editorial/captures/owner/YYYY-MM-DD.md` with the reply body (and date). If only “nothing”, write exactly `nothing`.
-   - Commit/push that file on `main` so Sunday Claude can merge it next run.
-   - For *this* Monday review only, treat those replies as truth above Sunday’s summary for those points; do not rewrite Progress logs (Sunday will append tagged lines when it merges the owner capture).
+4. **Owner email replies → GitHub (required if any exist):** Search Gmail for replies to subject containing `Editorial Review` not yet fully saved under `editorial/captures/owner/`.
+   - **Always** write/update `editorial/captures/owner/YYYY-MM-DD.md` for that reply date and push to `main` (append additional replies from the same calendar day into the same file — do not overwrite earlier reply text).
+   - If only “nothing”, ensure the file contains a `nothing` line for that reply (still push).
+   - Include any `do not resurface: …` lines verbatim in the owner capture.
+   - For *this* Monday review only, treat those replies as truth above Sunday’s summary for those points; do not rewrite Progress logs (Sunday merges tagged lines + Do not resurface).
 5. Research only the past 7 days for external developments that materially strengthen, weaken, or reframe an **active** idea or a live Progress-log thread.
 
 Skip Claude capture re-merge and Cursor chat status-mining unless `status.md` is clearly stale (Last status update older than 8 days). Sunday is the progress-log source of truth; Monday’s job is judgment + bridging Gmail → `captures/owner/`.
@@ -55,10 +56,11 @@ From Progress logs + Idea tree, extract:
 | `new` | Candidate or new branch — blend with old only if mechanism matches |
 | Promoted this week | Elevate briefly in “Where things stand” |
 | Nested idea-tree children | Prefer blend/merge language over inventing parallel projects |
+| Items under **Do not resurface** | Ban from Follow through, Blends, questions, and clarifications |
 
-**Follow-through this week** = the single highest-leverage action implied by open Progress lines + unresolved Open questions — not a new brainstorm.
+**Follow-through this week** = the single highest-leverage action implied by open Progress lines + unresolved Open questions — not a new brainstorm. Never pick a Do not resurface item.
 
-**Blends** = name the parent idea and the new angle explicitly. If they don’t share a mechanism, say so and keep the new item as candidate.
+**Blends** = name the parent idea and the new angle explicitly. If they don’t share a mechanism, say so and keep the new item as candidate. Skip anything on Do not resurface.
 
 ---
 
@@ -110,7 +112,21 @@ Closing (required)
 Reply with anything that changed since Sunday’s update: corrections, decisions, kills, or “nothing.”
 Your reply overrides status for next week; Sunday Claude continues the Progress log.
 
+Also answer this every week (required ask in the email body):
+**Do not resurface — is there anything I should stop bringing up?**
+Name each item in full (project or idea title). Example reply line:
+`do not resurface: EU labeling as central thesis hook — disclosure ≠ friction, parked for good`
+If nothing: `do not resurface: nothing`
+
 ---
+
+## Do not resurface (hard rule)
+
+1. Read `## Do not resurface` in `editorial/status.md` before writing.
+2. Never recommend, blend, re-open, or ask kill/keep questions about those items.
+3. Never put them in Follow through, Blends, Three questions, or Open clarifications.
+4. Only revive an item if an owner capture explicitly says to resurrect it (then Sunday removes it from the list).
+5. When owner replies include `do not resurface: …`, write them into `captures/owner/YYYY-MM-DD.md` (append that day) so Sunday adds them to the list — next Monday they must not appear again.
 
 ## Delivery
 

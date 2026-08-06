@@ -22,14 +22,21 @@ Sunday owns continuity. Monday owns judgment + bridging Gmail replies into GitHu
 - Subject: `Editorial Review – YYYY-MM-DD`
 - Archive: `editorial/reviews/YYYY-MM-DD.md`
 
-## Owner reply → GitHub (required)
+## Owner reply → GitHub (automatic on Monday)
 
 - Gmail: threads with subject containing `Editorial Review`
-- Write raw/structured reply to: `editorial/captures/owner/YYYY-MM-DD.md`
-- Push on `main` so Sunday Claude can merge it
-- Track under **Processed owner captures** / **Recent replies** in `status.md` when merged (Sunday) or when Monday archives
+- Monday **must** write/append: `editorial/captures/owner/YYYY-MM-DD.md` and push `main`
+- Same day → append further replies into that day’s file
+- Sunday merges into Progress logs + **Do not resurface**
 - Owner outranks Claude captures
 - Never delete or rewrite past Progress log lines
+
+## Do not resurface
+
+- Monday email always asks: anything to stop bringing up?
+- Owner replies with `do not resurface: <full title> — reason` (or `do not resurface: nothing`)
+- Sunday adds to `status.md` → `## Do not resurface`
+- Later Mondays never recommend those items unless owner explicitly resurrects them
 
 ## Naming (no opaque shorthand)
 
