@@ -18,15 +18,15 @@ Source: owner reply to Editorial Review – 2026-08-06 + chat correction (do not
 ## Projects
 
 ### The Manufactured Agreeable Mind (research paper)
-- Status: Drafted / stalled pending literature update — **alive** (v5 not killed)
+- Status: Drafted / stalled pending literature update — **alive** (v5 draft not killed)
 - Last known progress: v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance
-- Open questions: Stage 3→4 still primary gap?; is sycophancy still a unitary Stage-1 antecedent?; submission target?; is v5 pre-submission or mid-revision?
+- Open questions: Stage 3→4 still primary gap?; is sycophancy still a unitary Stage-1 antecedent?; submission target?; is The Manufactured Agreeable Mind v5 pre-submission or mid-revision?
 - Next move (proposed): Revise clinical section with conversation-level medical sycophancy evidence
 - Dependencies: Bandwidth vs Penn/ACAM clinical transcript work
 - Progress log:
   - 2026-08-05: v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance — baseline
   - 2026-08-06: blocked: no capture signal on Monday's follow-through
-  - 2026-08-06: owner reply said "Kill Paperv5" then corrected — do **not** kill; v5 = this paper; misread of the label
+  - 2026-08-06: owner reply said "Kill Paperv5" then corrected — do **not** kill The Manufactured Agreeable Mind; "Paper v5" was opaque shorthand and was misread
 
 ### 10-part Manufactured/Contrarian Mind Substack series
 - Status: Active drafting/scheduling underway (personal essays)
@@ -120,7 +120,7 @@ append to it, never rewrite past entries.
 ## Recent replies
 
 - 2026-08-06 (Re: Editorial Review – 2026-08-06): 6 Substack personal essays drafted+scheduled; Asymmetric Resonance essay scheduled; then wrote "Kill Paperv5"
-- 2026-08-06 (chat correction): do **not** kill Paper v5 — owner did not realize "Paper v5" meant Manufactured Agreeable Mind
+- 2026-08-06 (chat correction): do **not** kill The Manufactured Agreeable Mind (research paper) v5 — owner did not realize "Paper v5" meant that project
 
 ---
 
@@ -132,7 +132,7 @@ append to it, never rewrite past entries.
 
 ## Processed replies
 
-- 2026-08-06 Re: Editorial Review – 2026-08-06 (plus chat correction: do not kill paper v5)
+- 2026-08-06 Re: Editorial Review – 2026-08-06 (plus chat correction: do not kill The Manufactured Agreeable Mind v5)
 
 ---
 

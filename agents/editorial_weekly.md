@@ -71,9 +71,10 @@ Format as a **plain email**, not a chat comment or markdown doc:
 
 **Naming — be explicit enough to remind:**
 - Always use full project titles from `config/editorial_preferences.md` (e.g. `The Manufactured Agreeable Mind (research paper)`).
-- Never ask for kills/keeps/decisions with opaque shorthand (`Paper v5`, `Paperv5`, `the book`, initials-only).
+- Never ask for kills/keeps/decisions with opaque shorthand (`Paper v5`, `Paperv5`, `the book`, `Substack` alone, initials-only).
 - Version/draft labels come **after** the full title: `The Manufactured Agreeable Mind (research paper) v5 — pre-submission or mid-revision?`
 - Same rule in Follow through, Blends, Three questions, and any Open clarifications you write back to status.
+- Test: if the owner could reply “kill it” without knowing which project you meant, rewrite the prompt with the full title.
 
 Structure exactly these section titles, in order:
 
