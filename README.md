@@ -14,7 +14,7 @@ Sunday 5:45 PM Cursor  ──pulls Gmail──►  editorial/captures/owner/YYYY
 Sunday (later) Claude  ──reads──►  captures/owner/ + captures/claude/
         │
         │  merges into editorial/status.md
-        │  respects "## Do not resurface"
+        │  Do not resurface (1 week) → Permanently suppressed
         ▼
 Monday 9:00 AM Cursor  ──reads──►  status.md  →  emails Editorial Review
         │
@@ -25,7 +25,7 @@ Monday 9:00 AM Cursor  ──reads──►  status.md  →  emails Editorial Re
 |---|---|---|
 | **Sun 5:45 PM** | Cursor | **Owner capture sync** — Gmail replies → `captures/owner/` → push |
 | **Sunday (after 5:45)** | Claude | Merge owner + Claude captures into `status.md`; Progress logs; digest |
-| **Mon 9:00 AM** | Cursor | Editorial Review email; never recommend **Do not resurface**; backup reply dump |
+| **Mon 9:00 AM** | Cursor | Editorial Review email; never recommend Do not resurface / Permanently suppressed; backup reply dump |
 | **You** | Email reply | Progress, decisions, kills, `do not resurface: …` |
 
 ## Replies → GitHub
