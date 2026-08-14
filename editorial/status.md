@@ -10,8 +10,8 @@ can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
 Last status update: 2026-08-14
-Last chat scan: 2026-08-09
-Source: merged Claude capture 2026-08-09 (Post 3 published) **with** retained 2026-08-06 owner replies (personal essays; Asymmetric Resonance demoted; v5 pre-submission + free-venue research) and Do not resurface / Permanently suppressed sections — collision rule: keep both updates, drop nothing
+Last chat scan: 2026-08-14
+Source: merged Claude capture 2026-08-07 (layoff-cycle series progress) — no new owner captures this week; blocked follow-through logged for The Manufactured Agreeable Mind per reviews/2026-08-10.md
 
 ---
 
@@ -29,6 +29,7 @@ Source: merged Claude capture 2026-08-09 (Post 3 published) **with** retained 20
   - 2026-08-06: owner reply said "Kill Paperv5" then corrected — do **not** kill The Manufactured Agreeable Mind; "Paper v5" was opaque shorthand and was misread
   - 2026-08-06: continued: owner confirmed v5 is pre-submission and nowhere near ready; flagged need to research free/diamond-OA venues once revision is complete (Monday's follow-through venue shortlist not yet delivered)
   - 2026-08-06: blocked: no capture signal on Monday's newest follow-through ask (shortlist of 3–5 free/diamond-OA venues + one preprint path for v5, once revised) — this week's captures/claude and captures/owner files (2026-08-06.md) were already merged in a prior pass; no new capture material arrived to advance it
+  - 2026-08-14: blocked: no capture signal on Monday's follow-through (reviews/2026-08-10.md: write a one-page clinical-section revision note absorbing conversation-level medical sycophancy evidence — Ping et al.; MedPRESS — as a literature patch before any venue map). This week's only new capture (2026-08-07.md) concerned the Standalone socio-technological essays project, not this one.
 
 ### Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - Status: Numbered series in motion (Post 3 published) **and** personal-essay pipeline active (6 drafted+scheduled)
@@ -67,11 +68,12 @@ Source: merged Claude capture 2026-08-09 (Post 3 published) **with** retained 20
 
 ### Standalone socio-technological essays
 - Status: Pipeline active via Substack personal essays
-- Last known progress: Owner listed five scheduled titles (had said six drafted+scheduled): Why my $10 VA/hr now costs $20; "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance"
-- Next move: Optional — keep public essays moving alongside paper revision
+- Last known progress: Owner listed five scheduled titles (had said six drafted+scheduled): Why my $10 VA/hr now costs $20; "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance". Separately, a 3-part 2026 layoff-cycle series is in motion (Claude capture 2026-08-07): Part 1 ("It's Layoff Armageddon. I'm Patient.") published; Part 2 ("The Confound Nobody's Controlling For") scheduled with LinkedIn/Substack Notes cross-promotion; Part 3 ("We've Panicked About This Before") drafted, fact-checked, edited, pending publish. Note: Part 3 was separately reported published under Substack series (working title: "Manufactured/Contrarian Mind") by the 2026-08-09 capture — relation between the two series is still unresolved (see Open clarifications).
+- Next move: Publish/schedule Part 2 and Part 3 of the layoff-cycle series; keep public essays moving alongside paper revision
 - Progress log:
   - 2026-08-05: Pipeline empty — baseline
   - 2026-08-06: owner — 6 Substack personal essays drafted+scheduled
+  - 2026-08-07: continued: layoff-cycle series (3 parts) under this project — Part 1 published, Part 2 scheduled with cross-promotion, Part 3 drafted/fact-checked/edited pending publish (Claude capture)
 
 ---
 
@@ -136,6 +138,7 @@ append to it, never rewrite past entries.
 - 2026-08-06: No new capture signal this week (2026-08-06.md: "nothing"). Blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through ("revise clinical section against conversation-level medical sycophancy result").
 - 2026-08-06 (weekly merge): Merged remaining Progress-log gap flagged by Monday — owner capture's confirmation that v5 is pre-submission/nowhere near ready plus the free-OA-venue research need now logged against The Manufactured Agreeable Mind. No new Claude or owner captures this week. Monday's follow-through (3–5 free/diamond-OA venue shortlist + preprint path) was touched (continued) but not yet delivered — still open.
 - 2026-08-06 (weekly merge, second pass): Zero new capture files in captures/claude/ or captures/owner/ (2026-08-06.md in both already listed under Processed captures from the prior pass). Newest review (reviews/2026-08-06.md) reiterates the venue-shortlist follow-through for The Manufactured Agreeable Mind; blocked: no capture signal on it this run. No closures, no new candidates, no promotions.
+- 2026-08-14 (weekly merge): continued: Standalone socio-technological essays — layoff-cycle series progress from Claude capture 2026-08-07 (Part 1 published, Part 2 scheduled, Part 3 drafted pending publish). No new owner captures this week. blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through (clinical-section revision note, per reviews/2026-08-10.md). No closures, no new candidates, no promotions, no idea-tree changes.
 
 ---
 
@@ -158,6 +161,7 @@ append to it, never rewrite past entries.
 
 - 2026-08-09.md
 - 2026-08-06.md
+- 2026-08-07.md
 
 ---
 
