@@ -38,6 +38,10 @@ and pushes `main` (same day → append). Run Claude’s status merge **after** t
 
 Monday still dumps any stragglers as backup.
 
+## Collisions
+
+If two updates hit the same file (owner + Claude, or git push rejected because `main` moved): **merge both** and retain all unique information. Do not pick one side. Same-day capture files **append**. If they truly contradict, keep both lines in the log and flag under Open clarifications.
+
 ## Do not resurface
 
 Monday’s email asks: anything that should not come back?
@@ -65,3 +69,4 @@ editorial/
 
 - Sunday Claude owns Progress-log history (append only); run it after the 5:45 PM sync.
 - Never invent progress. Never recommend Do not resurface or Permanently suppressed items.
+- Collisions: merge both updates; never drop one to resolve a conflict.

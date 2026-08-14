@@ -30,6 +30,7 @@ Reply at HH:MM (local) — Re: Editorial Review – YYYY-MM-DD
    - `git add editorial/captures/owner/*.md`
    - Commit: `Owner captures sync: YYYY-MM-DD`
    - `git push origin main`
+   - If push is rejected because `main` moved: `git pull origin main` (merge, never reset `--hard`). **Keep both sides** of any overlapping file (append unique replies; never overwrite). Then push again.
 8. Do **not** edit `editorial/status.md` Progress logs, Idea tree, or Do not resurface (Sunday Claude merges next)
 9. Do **not** send the Editorial Review email
 10. Optional: one-line Gmail ack on the latest reply thread: `Got it — saved to GitHub for Sunday merge.`

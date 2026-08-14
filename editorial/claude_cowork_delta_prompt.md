@@ -43,7 +43,7 @@ STEPS
 4. Ignore tooling chatter, restated known status, and full transcript dumps.
 5. Write the file:
    editorial/captures/claude/YYYY-MM-DD.md
-   (use today's date; overwrite if the same date already exists)
+   (use today's date; if that file already exists, **append** new material — do not overwrite earlier same-day content)
 
 FILE CONTENTS (exact structure)
 # Claude Editorial Delta – YYYY-MM-DD
@@ -71,11 +71,12 @@ GIT (required — do not stop at a PR)
 1. Stage only editorial/captures/claude/YYYY-MM-DD.md
 2. Commit message: Claude editorial delta: YYYY-MM-DD
 3. Push DIRECTLY to origin/main (not a claude/ branch, not a pull request, not draft).
-4. Verify the file exists on origin/main (git fetch && git show origin/main:editorial/captures/claude/YYYY-MM-DD.md).
-5. Only then finish.
+4. If push is rejected because main moved: git pull origin main (merge, never reset --hard). Keep **both** sides of any overlapping file; append unique capture text; never drop one update. Then push again.
+5. Verify the file exists on origin/main (git fetch && git show origin/main:editorial/captures/claude/YYYY-MM-DD.md).
+6. Only then finish.
 
 CONSTRAINTS
-- Do not edit editorial/status.md (Monday's Cursor agent does that).
+- Do not edit editorial/status.md (Sunday Claude merges captures into status).
 - Do not email anyone.
 - Do not open a PR.
 - Do not ask for confirmation.
