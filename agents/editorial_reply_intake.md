@@ -30,10 +30,12 @@ Only if explicitly asked to pre-merge: leave Claude files for Sunday. Do not ste
 
 - Felisa is the source of truth for her own progress
 - Owner capture files on GitHub are how Claude picks up replies — always write the file, even if you also acknowledge in Gmail
-- Priority: owner capture > Claude capture
+- **Collisions:** merge both updates; retain all unique information. Do not drop a Claude line because an owner line exists (or vice versa). If they contradict on owner intent, owner wins current-state fields; keep the other line in the Progress log.
 - Never delete or rewrite past Progress log lines
 - Never send a new full Editorial Review from this agent
 - A one-line Gmail ack is allowed: `Got it — saved to GitHub for Sunday merge.`
+
+If `git push` is rejected because `main` moved: `git pull origin main` (merge, not reset), **keep both sides** of any overlapping file, commit, push again.
 
 ---
 

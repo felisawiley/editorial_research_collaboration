@@ -5,6 +5,7 @@
 - Same calendar day → **append** into the same file
 - Run Claude status merge **after** 5:45 PM so it sees this week’s replies
 - Monday may also append late replies as backup
+- If this file and another update collide: **keep both** (append; never overwrite)
 
 ## Do not resurface lines
 

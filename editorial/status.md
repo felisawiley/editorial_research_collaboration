@@ -9,9 +9,9 @@ is ever deleted to get there — each one also carries an append-only
 can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
-Last status update: 2026-08-06
-Last chat scan: 2026-08-06
-Source: owner replies to Editorial Review – 2026-08-06 (essay titles; demote Asymmetric Resonance to essay-only; kill withdrawn; v5 pre-submission + free-venue research need) + chat correction
+Last status update: 2026-08-14
+Last chat scan: 2026-08-09
+Source: merged Claude capture 2026-08-09 (Post 3 published) **with** retained 2026-08-06 owner replies (personal essays; Asymmetric Resonance demoted; v5 pre-submission + free-venue research) and Do not resurface / Permanently suppressed sections — collision rule: keep both updates, drop nothing
 
 ---
 
@@ -31,13 +31,14 @@ Source: owner replies to Editorial Review – 2026-08-06 (essay titles; demote A
   - 2026-08-06: blocked: no capture signal on Monday's newest follow-through ask (shortlist of 3–5 free/diamond-OA venues + one preprint path for v5, once revised) — this week's captures/claude and captures/owner files (2026-08-06.md) were already merged in a prior pass; no new capture material arrived to advance it
 
 ### Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
-- Status: Active drafting/scheduling underway (personal essays)
-- Last known progress: Owner said 6 personal essays drafted+scheduled (more brainstorming); five titles listed — relation to this named 10-part series still unclear
+- Status: Numbered series in motion (Post 3 published) **and** personal-essay pipeline active (6 drafted+scheduled)
+- Last known progress: Claude 2026-08-09 — Post 3 ("We've Panicked About This Before") published; owner 2026-08-06 — 6 personal essays drafted+scheduled (five titles listed). Relation of those essays to this named 10-part series still unclear.
 - Open questions: Relation of these personal essays to the named 10-part series? Distinct from The Manufactured Agreeable Mind (paper) and The Contrarian (book), or a spinoff?
-- Next move: Continue drafting; clarify whether scheduled pieces are inside or beside the 10-part series
+- Next move: Continue numbered series + personal essays; clarify whether scheduled pieces are inside or beside the 10-part series
 - Progress log:
   - 2026-08-05: No local drafts recovered — baseline
   - 2026-08-06: owner reply — 6 Substack personal essays drafted+scheduled; more in brainstorm
+  - 2026-08-09: continued: Post 3 ("We've Panicked About This Before") published (Claude capture) — kept alongside the 2026-08-06 personal-essay pipeline; did not replace it
 
 ### The Contrarian (book)
 - Status: Named / no manuscript recovered
@@ -131,6 +132,7 @@ append to it, never rewrite past entries.
 
 ## Recent Claude deltas
 
+- 2026-08-09: continued: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — Post 3 ("We've Panicked About This Before") published. Merged into status without dropping 2026-08-06 owner personal-essay lines.
 - 2026-08-06: No new capture signal this week (2026-08-06.md: "nothing"). Blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through ("revise clinical section against conversation-level medical sycophancy result").
 - 2026-08-06 (weekly merge): Merged remaining Progress-log gap flagged by Monday — owner capture's confirmation that v5 is pre-submission/nowhere near ready plus the free-OA-venue research need now logged against The Manufactured Agreeable Mind. No new Claude or owner captures this week. Monday's follow-through (3–5 free/diamond-OA venue shortlist + preprint path) was touched (continued) but not yet delivered — still open.
 - 2026-08-06 (weekly merge, second pass): Zero new capture files in captures/claude/ or captures/owner/ (2026-08-06.md in both already listed under Processed captures from the prior pass). Newest review (reviews/2026-08-06.md) reiterates the venue-shortlist follow-through for The Manufactured Agreeable Mind; blocked: no capture signal on it this run. No closures, no new candidates, no promotions.
@@ -154,6 +156,7 @@ append to it, never rewrite past entries.
 
 ## Processed Claude captures
 
+- 2026-08-09.md
 - 2026-08-06.md
 
 ---

@@ -40,7 +40,7 @@ Only touch `editorial/status.md` for: owner email-reply overrides, and optional 
    - For *this* Monday review only, treat those replies as truth above Sunday’s summary for those points; do not rewrite Progress logs (Sunday merges tagged lines + Do not resurface).
 5. Research only the past 7 days for external developments that materially strengthen, weaken, or reframe an **active** idea or a live Progress-log thread.
 
-Skip Claude capture re-merge and Cursor chat status-mining unless `status.md` is clearly stale (Last status update older than 8 days). Sunday is the progress-log source of truth; Monday’s job is judgment + bridging Gmail → `captures/owner/`.
+Skip Claude capture re-merge and Cursor chat status-mining unless `status.md` is clearly stale (Last status update older than 8 days, **or** a `captures/claude/` / `captures/owner/` file is not yet listed under Processed captures). If you do merge: **keep both** updates — append unique Progress-log lines; never replace owner material with a Claude delta or vice versa. Sunday remains the usual progress-log source of truth; Monday’s job is judgment + bridging Gmail → `captures/owner/`.
 
 ---
 
@@ -140,7 +140,7 @@ If nothing: `do not resurface: nothing`
    - Prefer HTML with real `<h2>` section headers + plain-text alternative; never leave raw `###` markdown in the inbox
    - Keep HTML typography compact: body ~13px, title ~16px, section headers ~12px (avoid large display sizes)
 5. Commit: `Editorial review: YYYY-MM-DD` (include any new `captures/owner/` files)
-6. Push if remote is configured
+6. Push if remote is configured. If push is rejected because `main` moved: `git pull origin main` (merge, never reset `--hard`). **Keep both sides** of any overlapping file — union unique Progress-log lines, captures, reviews, and sections; do not pick one update. Then push again.
 
 Do not rewrite `config/briefing_preferences.md`.
 Do not modify daily briefing behavior.

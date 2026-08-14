@@ -30,7 +30,16 @@ Sunday Claude should run **after** the 5:45 PM owner sync so same-week replies a
 - Gmail subject contains: `Editorial Review`
 - Path: `editorial/captures/owner/YYYY-MM-DD.md` (append same day)
 - Sunday Claude merges into Progress logs + **Do not resurface**
-- Owner outranks Claude captures
+- **Collisions:** merge both updates; retain all unique information (do not drop Claude because owner also wrote, or vice versa). If they contradict on owner intent, owner wins current-state fields; the other line stays in the Progress log + Open clarifications.
+
+## Collisions (git + status)
+
+If two updates hit the same file (owner capture + Claude capture, or `git push` rejected because `main` moved):
+
+1. Merge **both** — union unique bullets, Progress-log lines, captures, and sections. Never pick one side or reset `--hard`.
+2. Same calendar day capture file → **append**; do not overwrite earlier text.
+3. True contradiction → keep both wordings in the log; current-state fields follow owner intent; flag under Open clarifications.
+4. Then commit the merge and push again.
 
 ## Do not resurface
 

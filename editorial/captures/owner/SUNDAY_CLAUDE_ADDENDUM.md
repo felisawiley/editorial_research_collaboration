@@ -4,7 +4,7 @@ Paste into Sunday Claude routine — run **after 5:45 PM** (after Cursor owner-c
 After `git pull` and reading status.md:
 - List files in `captures/owner/` matching `YYYY-MM-DD.md` dated within the last 7 days, excluding `README.md` and excluding any filename already listed under **Processed owner captures**.
 - Read each; skip body exactly `nothing`.
-- **Priority:** owner captures outrank Claude captures on conflicts.
+- **Priority:** If two updates collide, **merge both** so nothing is dropped. Keep every unique Progress-log line, capture, and section. If they contradict on owner intent, prefer the owner capture for current-state fields, keep the other line in the Progress log, and add an Open clarifications note. Never delete one update to “win.”
 
 ## Do not resurface (add + expire after one week)
 If an owner capture contains lines starting with `do not resurface:` (case-insensitive) and the rest is not exactly `nothing`:
