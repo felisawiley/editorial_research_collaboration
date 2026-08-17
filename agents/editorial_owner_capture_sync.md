@@ -37,6 +37,16 @@ Reply at HH:MM (local) — Re: Editorial Review – YYYY-MM-DD
 
 ---
 
+## Unattended (hard rules)
+
+This job runs with nobody watching. Finish end-to-end.
+
+- Timezone: America/New_York.
+- Never ask a question. Never wait for confirmation.
+- Gmail MCP (`gmail`) is required for the search. If there is nothing new, exit cleanly with no commit.
+- Push **directly to `main`**. Never open a pull request. Never request reviewers. Never wait for Bugbot or CI.
+- If `git push` is rejected because `main` moved: `git pull origin main` (merge, never reset `--hard`), keep both sides, push again.
+
 ## Rules
 
 - Same calendar day → append into the same `YYYY-MM-DD.md`; never overwrite earlier replies

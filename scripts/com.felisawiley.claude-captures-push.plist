@@ -4,24 +4,29 @@
 <dict>
   <key>Label</key>
   <string>com.felisawiley.claude-captures-push</string>
+  <key>Program</key>
+  <string>/bin/bash</string>
   <key>ProgramArguments</key>
   <array>
-    <string>/Users/felisawiley/Desktop/agentic_workflows/scripts/push_claude_captures.sh</string>
+    <string>/bin/bash</string>
+    <string>/Users/felisawiley/agentic_workflows/scripts/push_claude_captures.sh</string>
   </array>
   <key>EnvironmentVariables</key>
   <dict>
     <key>PATH</key>
     <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <key>HOME</key>
+    <string>/Users/felisawiley</string>
   </dict>
   <key>WorkingDirectory</key>
-  <string>/Users/felisawiley/Desktop/agentic_workflows</string>
+  <string>/Users/felisawiley/agentic_workflows</string>
   <key>StartInterval</key>
   <integer>60</integer>
   <key>RunAtLoad</key>
   <true/>
   <key>StandardOutPath</key>
-  <string>/Users/felisawiley/Desktop/agentic_workflows/logs/claude_captures_watch.stdout.log</string>
+  <string>/Users/felisawiley/Library/Logs/com.felisawiley.claude-captures-push.stdout.log</string>
   <key>StandardErrorPath</key>
-  <string>/Users/felisawiley/Desktop/agentic_workflows/logs/claude_captures_watch.stderr.log</string>
+  <string>/Users/felisawiley/Library/Logs/com.felisawiley.claude-captures-push.stderr.log</string>
 </dict>
 </plist>

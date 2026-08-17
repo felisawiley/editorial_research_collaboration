@@ -70,3 +70,4 @@ editorial/
 - Sunday Claude owns Progress-log history (append only); run it after the 5:45 PM sync.
 - Never invent progress. Never recommend Do not resurface or Permanently suppressed items.
 - Collisions: merge both updates; never drop one to resolve a conflict.
+- Local Claude-capture watcher: LaunchAgent `com.felisawiley.claude-captures-push` runs from `~/agentic_workflows` (Desktop path is a symlink). Do not put this repo only on Desktop — macOS blocks `launchd` there.

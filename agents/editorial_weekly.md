@@ -129,6 +129,16 @@ If nothing: `do not resurface: nothing`
 5. When owner replies include `do not resurface: …`, write them into `captures/owner/YYYY-MM-DD.md` (append that day) so Sunday adds them to Do not resurface with `(added: YYYY-MM-DD)`.
 6. Lifecycle (Sunday Claude owns status): items stay on Do not resurface for **one week**, then are **removed** from that list and moved to Permanently suppressed — still banned from Monday recommendations forever unless resurrected.
 
+## Unattended (hard rules)
+
+This job runs with nobody watching. Finish end-to-end.
+
+- Timezone: America/New_York. Date the review with **today’s Eastern calendar date**.
+- Never ask a question. Never wait for confirmation. Never stop after a draft.
+- Gmail MCP (`gmail`) is required. Completion = archive file **and** `send_message` to the address in preferences. If send fails, retry once, then still commit/push the archive.
+- Push **directly to `main`**. Never open a pull request. Never request reviewers. Never wait for Bugbot or CI.
+- If `git push` is rejected because `main` moved: `git pull origin main` (merge, never reset `--hard`), keep both sides, push again.
+
 ## Delivery
 
 1. If any new owner Gmail replies: write `editorial/captures/owner/YYYY-MM-DD.md` and include it in the commit (required — this is how Sunday Claude picks up replies)
