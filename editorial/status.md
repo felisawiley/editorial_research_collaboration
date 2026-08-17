@@ -9,9 +9,9 @@ is ever deleted to get there — each one also carries an append-only
 can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
-Last status update: 2026-08-14
-Last chat scan: 2026-08-14
-Source: merged Claude capture 2026-08-07 (layoff-cycle series progress) — no new owner captures this week; blocked follow-through logged for The Manufactured Agreeable Mind per reviews/2026-08-10.md
+Last status update: 2026-08-17
+Last chat scan: 2026-08-17
+Source: no new Claude or owner captures this week; blocked follow-through logged for Substack series (working title: "Manufactured/Contrarian Mind") per reviews/2026-08-17.md
 
 ---
 
@@ -40,6 +40,7 @@ Source: merged Claude capture 2026-08-07 (layoff-cycle series progress) — no n
   - 2026-08-05: No local drafts recovered — baseline
   - 2026-08-06: owner reply — 6 Substack personal essays drafted+scheduled; more in brainstorm
   - 2026-08-09: continued: Post 3 ("We've Panicked About This Before") published (Claude capture) — kept alongside the 2026-08-06 personal-essay pipeline; did not replace it
+  - 2026-08-17: blocked: no capture signal on Monday's follow-through (reviews/2026-08-17.md: place the five scheduled personal essays inside or beside this numbered series, and say whether the layoff-cycle parts are the same sequence) — no new Claude or owner capture this week addressed the question
 
 ### The Contrarian (book)
 - Status: Named / no manuscript recovered
@@ -139,6 +140,7 @@ append to it, never rewrite past entries.
 - 2026-08-06 (weekly merge): Merged remaining Progress-log gap flagged by Monday — owner capture's confirmation that v5 is pre-submission/nowhere near ready plus the free-OA-venue research need now logged against The Manufactured Agreeable Mind. No new Claude or owner captures this week. Monday's follow-through (3–5 free/diamond-OA venue shortlist + preprint path) was touched (continued) but not yet delivered — still open.
 - 2026-08-06 (weekly merge, second pass): Zero new capture files in captures/claude/ or captures/owner/ (2026-08-06.md in both already listed under Processed captures from the prior pass). Newest review (reviews/2026-08-06.md) reiterates the venue-shortlist follow-through for The Manufactured Agreeable Mind; blocked: no capture signal on it this run. No closures, no new candidates, no promotions.
 - 2026-08-14 (weekly merge): continued: Standalone socio-technological essays — layoff-cycle series progress from Claude capture 2026-08-07 (Part 1 published, Part 2 scheduled, Part 3 drafted pending publish). No new owner captures this week. blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through (clinical-section revision note, per reviews/2026-08-10.md). No closures, no new candidates, no promotions, no idea-tree changes.
+- 2026-08-17 (weekly merge): No new Claude or owner captures this week (no unprocessed files in captures/claude/ or captures/owner/). blocked: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — no capture signal on Monday's follow-through (reviews/2026-08-17.md: clarify whether the five scheduled personal essays sit inside or beside this numbered series, and whether the layoff-cycle parts are the same sequence). No closures, no new candidates, no promotions, no idea-tree changes.
 
 ---
 
