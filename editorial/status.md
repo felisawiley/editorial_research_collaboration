@@ -9,7 +9,7 @@ is ever deleted to get there — each one also carries an append-only
 can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
-Last status update: 2026-08-17
+Last status update: 2026-08-19
 Last chat scan: 2026-08-17
 Source: merged Claude capture 2026-08-17 (consolidated four same-day dumps) — preprint 0/2 for The Manufactured Agreeable Mind; Substack Notes batches Parts 1–4; new candidate Cache Eviction for LLMs; Technological Determinism Bias deferred as coinage
 
@@ -121,6 +121,15 @@ Source: merged Claude capture 2026-08-17 (consolidated four same-day dumps) — 
 - Progress log:
   - 2026-08-17: new then deferred: standalone coinage not clearly differentiated from existing terminology (Claude capture)
 
+### Product-Decision Intelligence Platform (provisional)
+- One-line thesis: A platform that explains what happened, why decisions were made, and what's currently true about any product initiative—by assembling evidence from Jira, Slack, Confluence, and HubSpot into auditable decision timelines
+- Design exists: no
+- Domains researched: none yet — pending competitive analysis (Atlassian Rovo, Glean, HubSpot AI); B2B product tooling integration patterns; decision-audit UX
+- Last chat/file signal: owner 2026-08-19 — new product/company idea; opportunity is bridging customer demand, product planning, engineering delivery, and revenue impact; differentiation from generic AI search is structured decision history + product-to-revenue traceability; MVP = Jira epic as anchor → timeline from Jira/Slack/Confluence; HubSpot phase 2 for customer commitments, renewal risk, pipeline
+- Gate: do not promote until design + domain research exist
+- Progress log:
+  - 2026-08-19: new — candidate from owner; MVP anchored on Jira epic; competitive risk from Atlassian Rovo, Glean, HubSpot (must focus on decision history, not generic search)
+
 ---
 
 ## Idea tree
@@ -147,6 +156,8 @@ append to it, never rewrite past entries.
     - log: 2026-08-17 Deferred — not a standalone term (Claude capture)
 - **Cache Eviction for LLMs** [Provisional] — Offloading-as-LRU skill/knowledge eviction; essay/chapter term until literature check
   - log: 2026-08-17 Provisional — candidate, not promoted (Claude capture)
+- **Product-Decision Intelligence Platform** [Provisional] — B2B decision-audit platform (Jira/Slack/Confluence/HubSpot → structured timelines); differentiation = decision history + product-to-revenue traceability, not generic AI search
+  - log: 2026-08-19 Provisional — candidate, not promoted (owner)
 
 ---
 
