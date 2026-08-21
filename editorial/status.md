@@ -9,9 +9,9 @@ is ever deleted to get there — each one also carries an append-only
 can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
-Last status update: 2026-08-17
-Last chat scan: 2026-08-17
-Source: merged Claude capture 2026-08-17 (consolidated four same-day dumps) — preprint 0/2 for The Manufactured Agreeable Mind; Substack Notes batches Parts 1–4; new candidate Cache Eviction for LLMs; Technological Determinism Bias deferred as coinage
+Last status update: 2026-08-21
+Last chat scan: 2026-08-21
+Source: merged Claude capture 2026-08-21 — Standalone socio-technological essays: "The Board Under Your Feet" published (piece closed; project still active); no candidates/promotions/kills; blocked: Monday follow-throughs on the paper preprint path and the numbered-series partition
 
 ---
 
@@ -31,6 +31,7 @@ Source: merged Claude capture 2026-08-17 (consolidated four same-day dumps) — 
   - 2026-08-06: blocked: no capture signal on Monday's newest follow-through ask (shortlist of 3–5 free/diamond-OA venues + one preprint path for v5, once revised) — this week's captures/claude and captures/owner files (2026-08-06.md) were already merged in a prior pass; no new capture material arrived to advance it
   - 2026-08-14: blocked: no capture signal on Monday's follow-through (reviews/2026-08-10.md: write a one-page clinical-section revision note absorbing conversation-level medical sycophancy evidence — Ping et al.; MedPRESS — as a literature patch before any venue map). This week's only new capture (2026-08-07.md) concerned the Standalone socio-technological essays project, not this one.
   - 2026-08-17: continued: SocArXiv declined "Criterion Transfer" on scope (not social-science-specific; reads as general AI paper); preprint hosting now 0/2 (PsyArXiv + SocArXiv), both fit not quality; SSRN unconfirmed; IJHCS and Behaviour & Information Technology unaffected (Claude capture)
+  - 2026-08-21: blocked: no capture signal on Monday's follow-through (reviews/2026-08-17.md: name one remaining generalist preprint path — SSRN or a named equivalent — after PsyArXiv and SocArXiv declined "Criterion Transfer" on scope). This week's Claude capture (2026-08-21.md) concerned Standalone socio-technological essays, not this project. No new owner capture.
 
 ### Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - Status: Numbered series in motion (Post 3 published) **and** personal-essay pipeline active (6 drafted+scheduled)
@@ -43,6 +44,7 @@ Source: merged Claude capture 2026-08-17 (consolidated four same-day dumps) — 
   - 2026-08-09: continued: Post 3 ("We've Panicked About This Before") published (Claude capture) — kept alongside the 2026-08-06 personal-essay pipeline; did not replace it
   - 2026-08-17: blocked: no capture signal on Monday's follow-through (reviews/2026-08-17.md: place the five scheduled personal essays inside or beside this numbered series, and say whether the layoff-cycle parts are the same sequence) — no new Claude or owner capture this week addressed the question
   - 2026-08-17: continued: layoff-cycle arc — Notes batches drafted for Parts 1, 2, 3, and 4 (Part 4 = 10 scored candidates); posts for Parts 2 and 3 still to be written (Claude capture). Does not answer whether the five scheduled personal essays sit inside this series; treats layoff-cycle parts as this numbered series' arc (keep beside the Aug 9 Post 3 published line; see Open clarifications)
+  - 2026-08-21: blocked: no capture signal on Monday's follow-through (reviews/2026-08-17.md: place the five scheduled personal essays inside or beside this numbered series, and say whether the layoff-cycle parts are the same sequence). This week's Claude capture published "The Board Under Your Feet" under Standalone socio-technological essays and did not answer the partition.
 
 ### The Contrarian (book)
 - Status: Named / no manuscript recovered
@@ -71,13 +73,14 @@ Source: merged Claude capture 2026-08-17 (consolidated four same-day dumps) — 
 
 ### Standalone socio-technological essays
 - Status: Pipeline active via Substack personal essays
-- Last known progress: Owner listed five scheduled titles (had said six drafted+scheduled): Why my $10 VA/hr now costs $20; "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance". Separately, a 3-part 2026 layoff-cycle series is in motion (Claude capture 2026-08-07): Part 1 ("It's Layoff Armageddon. I'm Patient.") published; Part 2 ("The Confound Nobody's Controlling For") scheduled with LinkedIn/Substack Notes cross-promotion; Part 3 ("We've Panicked About This Before") drafted, fact-checked, edited, pending publish. Note: Part 3 was separately reported published under Substack series (working title: "Manufactured/Contrarian Mind") by the 2026-08-09 capture — relation between the two series is still unresolved (see Open clarifications).
+- Last known progress: Claude 2026-08-21 — "The Board Under Your Feet" published (personal essay responding to Kevin Johnson’s JAMIA commencement address “The Big Mo”; criterion transfer / agency-vs-dependence via a surfing metaphor and Costa Rica anecdote); **piece closed**, published Aug 2026. Owner listed five scheduled titles (had said six drafted+scheduled): Why my $10 VA/hr now costs $20; "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance". Separately, a 3-part 2026 layoff-cycle series is in motion (Claude capture 2026-08-07): Part 1 ("It's Layoff Armageddon. I'm Patient.") published; Part 2 ("The Confound Nobody's Controlling For") scheduled with LinkedIn/Substack Notes cross-promotion; Part 3 ("We've Panicked About This Before") drafted, fact-checked, edited, pending publish. Note: Part 3 was separately reported published under Substack series (working title: "Manufactured/Contrarian Mind") by the 2026-08-09 capture — relation between the two series is still unresolved (see Open clarifications). "The Board Under Your Feet" was not named among those five titles and was not placed inside vs beside the numbered series.
 - Next move: Write/publish Part 2 and Part 3 posts (Notes batches for Parts 1–4 now drafted under the numbered series capture); keep public essays moving alongside paper revision
 - Progress log:
   - 2026-08-05: Pipeline empty — baseline
   - 2026-08-06: owner — 6 Substack personal essays drafted+scheduled
   - 2026-08-07: continued: layoff-cycle series (3 parts) under this project — Part 1 published, Part 2 scheduled with cross-promotion, Part 3 drafted/fact-checked/edited pending publish (Claude capture)
   - 2026-08-17: continued: same layoff-cycle material logged as the 10-part series arc — Notes batches for Parts 1–4; posts for Parts 2 and 3 still to be written (Claude capture; kept alongside 2026-08-07 Part 2 scheduled / Part 3 pending lines)
+  - 2026-08-21: closed: "The Board Under Your Feet" published Aug 2026 (Claude capture) — personal essay responding to Kevin Johnson’s JAMIA commencement address (“The Big Mo”), applying criterion transfer / agency-vs-dependence to AI adoption via a surfing metaphor and Costa Rica anecdote. Closes this piece only; does not close the Standalone socio-technological essays project.
 
 ---
 
@@ -169,6 +172,7 @@ append to it, never rewrite past entries.
 - 2026-08-14 (weekly merge): continued: Standalone socio-technological essays — layoff-cycle series progress from Claude capture 2026-08-07 (Part 1 published, Part 2 scheduled, Part 3 drafted pending publish). No new owner captures this week. blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through (clinical-section revision note, per reviews/2026-08-10.md). No closures, no new candidates, no promotions, no idea-tree changes.
 - 2026-08-17 (weekly merge): No new Claude or owner captures this week (no unprocessed files in captures/claude/ or captures/owner/). blocked: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — no capture signal on Monday's follow-through (reviews/2026-08-17.md: clarify whether the five scheduled personal essays sit inside or beside this numbered series, and whether the layoff-cycle parts are the same sequence). No closures, no new candidates, no promotions, no idea-tree changes.
 - 2026-08-17 (Claude capture merge, second pass): continued: The Manufactured Agreeable Mind (research paper) — SocArXiv declined "Criterion Transfer" on scope; preprint hosting 0/2 (PsyArXiv + SocArXiv); SSRN unconfirmed; IJHCS / Behaviour & Information Technology unaffected. continued: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — Notes batches Parts 1–4; posts for Parts 2 and 3 still to be written; layoff-cycle treated as this series' arc (does not answer the personal-essay partition). new: Cache Eviction for LLMs (candidate, not promoted). deferred: Technological Determinism Bias as standalone coined term. No owner captures. No promotions. Personal-essay vs numbered-series question still open.
+- 2026-08-21 (Claude capture merge): closed: Standalone socio-technological essays — "The Board Under Your Feet" published Aug 2026 (piece closed; project remains active). No new owner captures. No candidates, promotions, or kills. blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through (remaining generalist preprint path after PsyArXiv + SocArXiv). blocked: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — no capture signal on Monday's follow-through (personal essays inside vs beside the numbered series). Do not resurface still empty (nothing to expire).
 
 ---
 
@@ -189,6 +193,7 @@ append to it, never rewrite past entries.
 
 ## Processed Claude captures
 
+- 2026-08-21.md
 - 2026-08-17.md
 - 2026-08-09.md
 - 2026-08-06.md
