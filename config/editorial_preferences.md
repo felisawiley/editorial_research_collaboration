@@ -57,9 +57,14 @@ If two updates hit the same file (owner capture + Claude capture, or `git push` 
 
 ## Active projects
 
-- The Manufactured Agreeable Mind (research paper)
 - Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - The Contrarian (book)
 - The Voiceless (book)
 - Third book (title TBD)
 - Standalone socio-technological essays
+
+## Future work
+
+Parked until personal essays are finished. Monday must not mention. Sunday: no Progress-log updates unless an owner capture explicitly resumes the item.
+
+- The Manufactured Agreeable Mind (research paper)

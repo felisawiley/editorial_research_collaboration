@@ -27,12 +27,14 @@ GOAL
 Produce this week's editorial delta from your available Claude conversation/project context and land it on origin/main before you stop.
 
 ACTIVE PROJECTS (named only — progress updates only for these)
-- The Manufactured Agreeable Mind (research paper)
 - Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - The Contrarian (book)
 - The Voiceless (book)
 - Third book (title TBD)
 - Standalone socio-technological essays
+
+FUTURE WORK (list under the delta as none — do not report progress)
+- The Manufactured Agreeable Mind (research paper)
 
 STEPS
 1. Read editorial/status.md and the newest file(s) in editorial/captures/claude/ (ignore README).
@@ -40,7 +42,7 @@ STEPS
    - status change, decision, draft/section advanced, kill/defer/merge, new open question
 3. New intellectual projects/essay theses not in the list go under Candidates only.
    Promote to Active ONLY if BOTH are true: clear design/thesis exists AND domains have been researched.
-4. Ignore tooling chatter, restated known status, and full transcript dumps.
+4. Ignore tooling chatter, restated known status, full transcript dumps, and any Future work / research-paper material.
 5. Write the file:
    editorial/captures/claude/YYYY-MM-DD.md
    (use today's date; if that file already exists, **append** new material — do not overwrite earlier same-day content)

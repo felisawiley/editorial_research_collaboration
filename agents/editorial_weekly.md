@@ -28,9 +28,10 @@ Only touch `editorial/status.md` for: owner email-reply overrides, and optional 
 1. Read `config/editorial_preferences.md`
 2. Read `editorial/status.md` in full — especially:
    - current-state fields under each active project
-   - **Progress log** lines dated since last Monday (or last 7 days)
+   - **Future work** (parked — do not mention, blend, or follow through)
+   - **Progress log** lines dated since last Monday (or last 7 days) on **active** projects only
    - **Candidate projects** and promotion gates
-   - **Idea tree** (nested branches + state tags)
+   - **Idea tree** (nested branches + state tags) — skip nodes attached to Future work / research papers
    - **Closed projects** moved this week
 3. Read the most recent file in `editorial/reviews/` (if any) — do not repeat its One move unless new evidence changes it
 4. **Owner email replies → GitHub (required if any exist):** Search Gmail for replies to subject containing `Editorial Review` not yet fully saved under `editorial/captures/owner/`.
@@ -38,7 +39,7 @@ Only touch `editorial/status.md` for: owner email-reply overrides, and optional 
    - If only “nothing”, ensure the file contains a `nothing` line for that reply (still push).
    - Include any `do not resurface: …` lines verbatim in the owner capture.
    - For *this* Monday review only, treat those replies as truth above Sunday’s summary for those points; do not rewrite Progress logs (Sunday merges tagged lines + Do not resurface).
-5. Research only the past 7 days for external developments that materially strengthen, weaken, or reframe an **active** idea or a live Progress-log thread.
+5. Research only the past 7 days for external developments that materially strengthen, weaken, or reframe an **active** idea or a live Progress-log thread. Skip Future work / research papers.
 
 Skip Claude capture re-merge and Cursor chat status-mining unless `status.md` is clearly stale (Last status update older than 8 days, **or** a `captures/claude/` / `captures/owner/` file is not yet listed under Processed captures). If you do merge: **keep both** updates — append unique Progress-log lines; never replace owner material with a Claude delta or vice versa. Sunday remains the usual progress-log source of truth; Monday’s job is judgment + bridging Gmail → `captures/owner/`.
 
@@ -56,11 +57,12 @@ From Progress logs + Idea tree, extract:
 | `new` | Candidate or new branch — blend with old only if mechanism matches |
 | Promoted this week | Elevate briefly in “Where things stand” |
 | Nested idea-tree children | Prefer blend/merge language over inventing parallel projects |
+| Items under **Future work** | Ban from the email body except a one-line park if the owner just moved something this week; never Follow through or ask about them |
 | Items under **Do not resurface** or **Permanently suppressed** | Ban from Follow through, Blends, questions, and clarifications |
 
-**Follow-through this week** = the single highest-leverage action implied by open Progress lines + unresolved Open questions — not a new brainstorm. Never pick a Do not resurface or Permanently suppressed item.
+**Follow-through this week** = the single highest-leverage action implied by open Progress lines + unresolved Open questions — not a new brainstorm. Never pick a Future work, Do not resurface, or Permanently suppressed item.
 
-**Blends** = name the parent idea and the new angle explicitly. If they don’t share a mechanism, say so and keep the new item as candidate. Skip anything on Do not resurface or Permanently suppressed.
+**Blends** = name the parent idea and the new angle explicitly. If they don’t share a mechanism, say so and keep the new item as candidate. Skip anything on Future work, Do not resurface, or Permanently suppressed.
 
 ---
 
@@ -75,11 +77,12 @@ Format as a **plain email**, not a chat comment or markdown doc:
 - Closing separator: an em dash line `—` (not `---`)
 
 **Naming — be explicit enough to remind:**
-- Always use full project titles from `config/editorial_preferences.md` (e.g. `The Manufactured Agreeable Mind (research paper)`).
+- Always use full project titles from `config/editorial_preferences.md` (e.g. `Standalone socio-technological essays`).
 - Never ask for kills/keeps/decisions with opaque shorthand (`Paper v5`, `Paperv5`, `the book`, `Substack` alone, initials-only).
-- Version/draft labels come **after** the full title: `The Manufactured Agreeable Mind (research paper) v5 — pre-submission or mid-revision?`
+- Version/draft labels come **after** the full title when an active project still uses them.
 - Same rule in Follow through, Blends, Three questions, and any Open clarifications you write back to status.
 - Test: if the owner could reply “kill it” without knowing which project you meant, rewrite the prompt with the full title.
+- Never name research papers or Future work items in the email.
 
 Structure exactly these section titles, in order:
 
@@ -119,6 +122,13 @@ Name each item in full (project or idea title). Example reply line:
 If nothing: `do not resurface: nothing`
 
 ---
+
+## Future work (hard rule)
+
+1. Read `## Future work` in `editorial/status.md` before writing.
+2. Never recommend, blend, follow through, or ask questions about items there (or near-duplicates under a new name, including research-paper idea-tree nodes and paper-parented candidates).
+3. Do not append Progress-log lines for Future work items.
+4. This is a park, not a kill: do **not** move these to Do not resurface or Permanently suppressed unless the owner uses that exact reply format.
 
 ## Do not resurface / Permanently suppressed (hard rule)
 
