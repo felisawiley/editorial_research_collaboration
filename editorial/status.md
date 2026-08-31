@@ -9,9 +9,9 @@ is ever deleted to get there — each one also carries an append-only
 can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
-Last status update: 2026-08-21
-Last chat scan: 2026-08-21
-Source: owner capture 2026-08-21 (after Claude capture same day) — research papers parked in Future work (no updates; finish personal essays first); published VA / Applying Too Easy / LinkedIn hiring essays under Standalone; personal essays are a separate pipeline from the numbered Substack series; layoff-cycle not numbered as parts 1–3
+Last status update: 2026-08-31
+Last chat scan: 2026-08-27
+Source: Monday merge of unprocessed Claude capture 2026-08-27 (Sunday 2026-08-30 merge did not land); owner capture 2026-08-21 still current-state for published essays / Future work park / pipeline partition. Claude 2026-08-27: no new Substack pieces; Architect of Calm Season 3 thesis reaffirmed (guest criteria undocumented); new candidate Critical thinking webinar. No new owner capture this week.
 
 ---
 
@@ -19,7 +19,7 @@ Source: owner capture 2026-08-21 (after Claude capture same day) — research pa
 
 ### Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - Status: Numbered series in motion (Post 3 published). Personal essays are a **separate pipeline** (Standalone socio-technological essays) — not this project.
-- Last known progress: Claude 2026-08-09 / owner 2026-08-21 — Post 3 ("We've Panicked About This Before") still published. Owner 2026-08-21: personal essays stay a separate pipeline; layoff-cycle pieces have not been numbered or listed as part one, two, or three — do not treat layoff-cycle + Post 3 as one numbered series. Claude 2026-08-17 Notes batches for layoff-cycle Parts 1–4 remain in the Progress log as Claude’s framing (not owner numbering).
+- Last known progress: Claude 2026-08-09 / owner 2026-08-21 — Post 3 ("We've Panicked About This Before") still published. Owner 2026-08-21: personal essays stay a separate pipeline; layoff-cycle pieces have not been numbered or listed as part one, two, or three — do not treat layoff-cycle + Post 3 as one numbered series. Claude 2026-08-17 Notes batches for layoff-cycle Parts 1–4 remain in the Progress log as Claude’s framing (not owner numbering). Claude 2026-08-27: no new pieces this week; Architect of Calm content and looser-thesis Notes both fit the newsletter's tech/human-systems focus.
 - Open questions: What is the next numbered post after Post 3?
 - Next move: Continue the numbered series only when named; public cadence this week is the Standalone personal-essay pipeline
 - Progress log:
@@ -31,6 +31,7 @@ Source: owner capture 2026-08-21 (after Claude capture same day) — research pa
   - 2026-08-21: blocked: no capture signal on Monday's follow-through (reviews/2026-08-17.md: place the five scheduled personal essays inside or beside this numbered series, and say whether the layoff-cycle parts are the same sequence). This week's Claude capture published "The Board Under Your Feet" under Standalone socio-technological essays and did not answer the partition.
   - 2026-08-21: resolved: owner — personal essays are a separate pipeline from this numbered series
   - 2026-08-21: resolved: owner — layoff-cycle pieces have not been numbered or listed as part one, two, or three; do not collapse layoff-cycle and Post 3 into one numbered series (Claude’s 3-part / Parts 1–4 framing stays in the log only)
+  - 2026-08-27: continued: no new pieces this week; Architect of Calm content and looser-thesis Notes both fit the newsletter's tech/human-systems focus (Claude capture)
 
 ### The Contrarian (book)
 - Status: Named / no manuscript recovered
@@ -59,7 +60,7 @@ Source: owner capture 2026-08-21 (after Claude capture same day) — research pa
 
 ### Standalone socio-technological essays
 - Status: Pipeline active — personal essays are the live public track (separate from the numbered Substack series)
-- Last known progress: Owner 2026-08-21 published: "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…". Claude 2026-08-21 — "The Board Under Your Feet" published (piece closed). Layoff-cycle series still sits under this project: Part 1 published, Part 2 scheduled, Part 3 drafted as of Aug 14 (this week’s owner capture did not name part titles; Aug 7 Claude titles remain only in that Progress-log line). Still on the scheduled list from owner 2026-08-06 unless later marked published: "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance". Asymmetric Resonance stays essay-only.
+- Last known progress: Owner 2026-08-21 published: "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…". Claude 2026-08-21 — "The Board Under Your Feet" published (piece closed). Layoff-cycle series still sits under this project: Part 1 published, Part 2 scheduled, Part 3 drafted as of Aug 14 (this week’s owner capture did not name part titles; Aug 7 Claude titles remain only in that Progress-log line). Still on the scheduled list from owner 2026-08-06 unless later marked published: "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance". Asymmetric Resonance stays essay-only. Claude 2026-08-27: no new public pieces this week — last Monday’s follow-through (reviews/2026-08-24.md: ship the next queued piece) still open; next title unnamed.
 - Next move: Finish remaining personal essays (scheduled titles above). Do not divert to Future work / research papers.
 - Progress log:
   - 2026-08-05: Pipeline empty — baseline
@@ -68,6 +69,7 @@ Source: owner capture 2026-08-21 (after Claude capture same day) — research pa
   - 2026-08-17: continued: same layoff-cycle material logged as the 10-part series arc — Notes batches for Parts 1–4; posts for Parts 2 and 3 still to be written (Claude capture; kept alongside 2026-08-07 Part 2 scheduled / Part 3 pending lines)
   - 2026-08-21: closed: "The Board Under Your Feet" published Aug 2026 (Claude capture) — personal essay responding to Kevin Johnson’s JAMIA commencement address (“The Big Mo”), applying criterion transfer / agency-vs-dependence to AI adoption via a surfing metaphor and Costa Rica anecdote. Closes this piece only; does not close the Standalone socio-technological essays project.
   - 2026-08-21: continued: owner — published "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…". Layoff-cycle still under this project (Part 1 published, Part 2 scheduled, Part 3 drafted as of Aug 14; part titles not in this week’s capture). Personal essays are a separate pipeline from Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned). Asymmetric Resonance stays essay-only.
+  - 2026-08-27: blocked: no new public pieces this week (Claude capture). Does not answer last Monday’s follow-through (reviews/2026-08-24.md: ship the next queued Standalone piece — layoff-cycle Part 2 if still scheduled, else next remaining August 6 title). Next public title still unnamed.
 
 ---
 
@@ -134,6 +136,24 @@ Parked until personal essays are finished. Monday must **not** mention these (Fo
 - Progress log:
   - 2026-08-17: new then deferred: standalone coinage not clearly differentiated from existing terminology (Claude capture)
 
+### Architect of Calm (provisional)
+- One-line thesis: Season 3 — calm as reclaiming self-directed agency, tied to outsourced judgment (Claude 2026-08-27). Public site also describes book / podcast / newsletter; not on the Active roster.
+- Design exists: no (guest criteria still undocumented)
+- Domains researched: none recorded
+- Last chat/file signal: Claude 2026-08-27 — Season 3 thesis reaffirmed; Architect of Calm content also noted as fitting Substack's tech/human-systems focus. Not promoted.
+- Gate: do not promote until owner places it on the roster (or names it as Third book); treat as a separate public track until then — do not collapse into Standalone socio-technological essays or Third book (title TBD)
+- Progress log:
+  - 2026-08-27: new — named project update from Claude capture; Season 3 thesis reaffirmed; guest criteria undocumented; design=no
+
+### Critical thinking webinar (provisional)
+- One-line thesis: TBD — signal = new idea tied to "we are our own agents" / self-directed agency (Claude 2026-08-27); parent idea = none
+- Design exists: no
+- Domains researched: none
+- Last chat/file signal: Claude 2026-08-27 — new candidate, not promoted
+- Gate: do not promote until thesis + design exist; do not treat as a new numbered series or book
+- Progress log:
+  - 2026-08-27: new — candidate from Claude capture; design=no; domains=none; parent=none
+
 ---
 
 ## Idea tree
@@ -160,6 +180,10 @@ append to it, never rewrite past entries.
     - log: 2026-08-17 Deferred — not a standalone term (Claude capture)
 - **Cache Eviction for LLMs** [Provisional] — Offloading-as-LRU skill/knowledge eviction; essay/chapter term until literature check
   - log: 2026-08-17 Provisional — candidate, not promoted (Claude capture)
+- **Architect of Calm Season 3** [Provisional] — Calm as reclaiming self-directed agency, tied to outsourced judgment; book/podcast/newsletter, not an Active roster project
+  - log: 2026-08-27 Provisional — named in Claude capture; guest criteria undocumented
+- **Critical thinking webinar** [New] — Thesis TBD; "we are our own agents"; parent=none
+  - log: 2026-08-27 New — candidate, not promoted (Claude capture)
 
 ---
 
@@ -187,6 +211,7 @@ append to it, never rewrite past entries.
 - 2026-08-17 (Claude capture merge, second pass): continued: The Manufactured Agreeable Mind (research paper) — SocArXiv declined "Criterion Transfer" on scope; preprint hosting 0/2 (PsyArXiv + SocArXiv); SSRN unconfirmed; IJHCS / Behaviour & Information Technology unaffected. continued: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — Notes batches Parts 1–4; posts for Parts 2 and 3 still to be written; layoff-cycle treated as this series' arc (does not answer the personal-essay partition). new: Cache Eviction for LLMs (candidate, not promoted). deferred: Technological Determinism Bias as standalone coined term. No owner captures. No promotions. Personal-essay vs numbered-series question still open.
 - 2026-08-21 (Claude capture merge): closed: Standalone socio-technological essays — "The Board Under Your Feet" published Aug 2026 (piece closed; project remains active). No new owner captures. No candidates, promotions, or kills. blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through (remaining generalist preprint path after PsyArXiv + SocArXiv). blocked: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — no capture signal on Monday's follow-through (personal essays inside vs beside the numbered series). Do not resurface still empty (nothing to expire).
 - 2026-08-21 (owner capture merge): parked: The Manufactured Agreeable Mind (research paper) → **Future work** (no further updates; Monday must not mention research papers). continued: Standalone socio-technological essays — published "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…"; layoff-cycle still under Standalone. resolved: personal essays are a separate pipeline from Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned); Post 3 still published. resolved: layoff-cycle not numbered as part one/two/three. Asymmetric Resonance stays essay-only. Not a do-not-resurface kill — Future work is a park, not Permanently suppressed.
+- 2026-08-31 (Monday merge of unprocessed Claude capture 2026-08-27; Sunday 2026-08-30 merge did not land): continued: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — no new pieces this week; Architect of Calm content and looser-thesis Notes fit newsletter tech/human-systems focus. blocked: Standalone socio-technological essays — no new public pieces; last Monday’s follow-through (reviews/2026-08-24.md: ship next queued piece) still open. new: Architect of Calm (candidate; Season 3 thesis reaffirmed; guest criteria undocumented). new: Critical thinking webinar (candidate; design=no; parent=none). Criterion Transfer / CAM-seminar paper thread skipped (Future work). Snider Consulting program and Collegium Institute fellowships evaluated/deferred — not editorial projects. No owner captures. No promotions. Do not resurface still empty.
 
 ---
 
@@ -209,6 +234,7 @@ append to it, never rewrite past entries.
 
 ## Processed Claude captures
 
+- 2026-08-27.md
 - 2026-08-21.md
 - 2026-08-17.md
 - 2026-08-09.md
@@ -224,6 +250,7 @@ append to it, never rewrite past entries.
 - Resolved 2026-08-06: Asymmetric Resonance demoted to personal essay for now (option to reopen later); not a live candidate/book signal — owner 2026-08-21: stays essay-only
 - Resolved 2026-08-06: The Manufactured Agreeable Mind (research paper) v5 is pre-submission (not mid-revision); kill withdrawn earlier the same day
 - Resolved 2026-08-21: research papers parked in **Future work**; finish personal essays first; no weekly updates and do not mention in Monday review
+- Open 2026-08-31: Architect of Calm appeared in Claude 2026-08-27 as a named Season 3 thesis (guest criteria undocumented); not on the Active roster — treat as candidate until owner places it (do not assume it is Third book (title TBD))
 
 ---
 
