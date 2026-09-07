@@ -9,9 +9,9 @@ is ever deleted to get there — each one also carries an append-only
 can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
-Last status update: 2026-08-31
+Last status update: 2026-09-07
 Last chat scan: 2026-08-27
-Source: Monday merge of unprocessed Claude capture 2026-08-27 (Sunday 2026-08-30 merge did not land); owner capture 2026-08-21 still current-state for published essays / Future work park / pipeline partition. Claude 2026-08-27: no new Substack pieces; Architect of Calm Season 3 thesis reaffirmed (guest criteria undocumented); new candidate Critical thinking webinar. No new owner capture this week.
+Source: Monday merge of unprocessed Claude capture 2026-08-30 and owner capture 2026-09-01 (Sunday 2026-09-06 merge did not land). Owner 2026-09-01 is current-state for August publishing correction, Think Better hold, Sep–Oct calendar, new essay ideas, podcast-to-Substack / Beehiiv deleted. Claude 2026-08-30: Accountability as the Reserved Domain; Think Better split from Critical thinking webinar (current-state superseded by owner hold). Gmail MCP unavailable this run — no new owner search after 2026-09-01.
 
 ---
 
@@ -19,9 +19,9 @@ Source: Monday merge of unprocessed Claude capture 2026-08-27 (Sunday 2026-08-30
 
 ### Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
 - Status: Numbered series in motion (Post 3 published). Personal essays are a **separate pipeline** (Standalone socio-technological essays) — not this project.
-- Last known progress: Claude 2026-08-09 / owner 2026-08-21 — Post 3 ("We've Panicked About This Before") still published. Owner 2026-08-21: personal essays stay a separate pipeline; layoff-cycle pieces have not been numbered or listed as part one, two, or three — do not treat layoff-cycle + Post 3 as one numbered series. Claude 2026-08-17 Notes batches for layoff-cycle Parts 1–4 remain in the Progress log as Claude’s framing (not owner numbering). Claude 2026-08-27: no new pieces this week; Architect of Calm content and looser-thesis Notes both fit the newsletter's tech/human-systems focus.
+- Last known progress: Claude 2026-08-09 / owner 2026-08-21 — Post 3 ("We've Panicked About This Before") still published. Owner 2026-08-21: personal essays stay a separate pipeline; layoff-cycle pieces have not been numbered or listed as part one, two, or three — do not treat layoff-cycle + Post 3 as one numbered series. Claude 2026-08-17 Notes batches for layoff-cycle Parts 1–4 remain in the Progress log as Claude’s framing (not owner numbering). Claude 2026-08-27: no new pieces this week; Architect of Calm content and looser-thesis Notes both fit the newsletter's tech/human-systems focus. Owner 2026-09-01: nine August Substack posts belong to the personal-essay pipeline, not this numbered series; still no named Post 4. Claude 2026-08-30 "Accountability as the Reserved Domain" is an essay concept, not a numbered post.
 - Open questions: What is the next numbered post after Post 3?
-- Next move: Continue the numbered series only when named; public cadence this week is the Standalone personal-essay pipeline
+- Next move: Continue the numbered series only when named; public cadence remains the Standalone personal-essay pipeline (Sep–Oct calendar)
 - Progress log:
   - 2026-08-05: No local drafts recovered — baseline
   - 2026-08-06: owner reply — 6 Substack personal essays drafted+scheduled; more in brainstorm
@@ -32,6 +32,8 @@ Source: Monday merge of unprocessed Claude capture 2026-08-27 (Sunday 2026-08-30
   - 2026-08-21: resolved: owner — personal essays are a separate pipeline from this numbered series
   - 2026-08-21: resolved: owner — layoff-cycle pieces have not been numbered or listed as part one, two, or three; do not collapse layoff-cycle and Post 3 into one numbered series (Claude’s 3-part / Parts 1–4 framing stays in the log only)
   - 2026-08-27: continued: no new pieces this week; Architect of Calm content and looser-thesis Notes both fit the newsletter's tech/human-systems focus (Claude capture)
+  - 2026-08-30: new angle: "Accountability as the Reserved Domain" captured as a Substack essay concept (not a numbered post; not queued against mid-October) — Claude capture
+  - 2026-09-01: continued: owner — nine August Substack posts are the personal-essay pipeline; still no named Post 4 for this numbered series
 
 ### The Contrarian (book)
 - Status: Named / no manuscript recovered
@@ -60,8 +62,8 @@ Source: Monday merge of unprocessed Claude capture 2026-08-27 (Sunday 2026-08-30
 
 ### Standalone socio-technological essays
 - Status: Pipeline active — personal essays are the live public track (separate from the numbered Substack series)
-- Last known progress: Owner 2026-08-21 published: "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…". Claude 2026-08-21 — "The Board Under Your Feet" published (piece closed). Layoff-cycle series still sits under this project: Part 1 published, Part 2 scheduled, Part 3 drafted as of Aug 14 (this week’s owner capture did not name part titles; Aug 7 Claude titles remain only in that Progress-log line). Still on the scheduled list from owner 2026-08-06 unless later marked published: "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance". Asymmetric Resonance stays essay-only. Claude 2026-08-27: no new public pieces this week — last Monday’s follow-through (reviews/2026-08-24.md: ship the next queued piece) still open; next title unnamed.
-- Next move: Finish remaining personal essays (scheduled titles above). Do not divert to Future work / research papers.
+- Last known progress: Owner 2026-09-01 correction — nine Substack posts published in August: "The Confound No One's Controlling For"; "The Board Under Your Feet"; the 4-part layoff series; "My $10/hr VA"; Spotify. Also still logged from owner 2026-08-21: "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…". Owner 2026-09-01 lists the 4-part layoff series as published (current-state; earlier Part 2 scheduled / Part 3 drafted lines stay in the log). Content scheduled on LinkedIn and Substack (essays, thoughts, notes, podcast — old season and new) for all of September headed into October. New essay ideas: "Offline as a status"; "Human ego preventing AI from taking over" (owner connects to "Accountability as the Reserved Domain"). Still on the August 6 scheduled list unless later marked published: "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance". Asymmetric Resonance stays essay-only. Podcast connected to Substack; Beehiiv deleted.
+- Next move: Run the September–October calendar; say whether "Offline as a status" (and the ego/accountability essay) are already on it or still idea-only. Do not divert to Future work / research papers.
 - Progress log:
   - 2026-08-05: Pipeline empty — baseline
   - 2026-08-06: owner — 6 Substack personal essays drafted+scheduled
@@ -70,6 +72,9 @@ Source: Monday merge of unprocessed Claude capture 2026-08-27 (Sunday 2026-08-30
   - 2026-08-21: closed: "The Board Under Your Feet" published Aug 2026 (Claude capture) — personal essay responding to Kevin Johnson’s JAMIA commencement address (“The Big Mo”), applying criterion transfer / agency-vs-dependence to AI adoption via a surfing metaphor and Costa Rica anecdote. Closes this piece only; does not close the Standalone socio-technological essays project.
   - 2026-08-21: continued: owner — published "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…". Layoff-cycle still under this project (Part 1 published, Part 2 scheduled, Part 3 drafted as of Aug 14; part titles not in this week’s capture). Personal essays are a separate pipeline from Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned). Asymmetric Resonance stays essay-only.
   - 2026-08-27: blocked: no new public pieces this week (Claude capture). Does not answer last Monday’s follow-through (reviews/2026-08-24.md: ship the next queued Standalone piece — layoff-cycle Part 2 if still scheduled, else next remaining August 6 title). Next public title still unnamed.
+  - 2026-08-30: new angle: "Accountability as the Reserved Domain" — ego reserves accountability (not mechanics) as a structural safeguard against AI takeover; idea stage, not queued against mid-October (Claude capture)
+  - 2026-09-01: continued: owner — nine August Substack posts published ("The Confound No One's Controlling For"; "The Board Under Your Feet"; 4-part layoff series; "My $10/hr VA"; Spotify). LinkedIn + Substack scheduled through September into October. New essay ideas: "Offline as a status"; "Human ego preventing AI from taking over". Podcast connected to Substack; Beehiiv deleted.
+  - 2026-09-01: resolved: owner — 4-part layoff series listed as published (current-state for this series under Standalone; does not make it the numbered Manufactured/Contrarian Mind series — keep 2026-08-21 partition)
 
 ---
 
@@ -79,7 +84,7 @@ Parked until personal essays are finished. Monday must **not** mention these (Fo
 
 ### The Manufactured Agreeable Mind (research paper)
 - Status: Parked in Future work (owner 2026-08-21) — still alive / pre-submission; not killed
-- Last known progress: (frozen) v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance; owner: nowhere near ready; needs free/OA venue research once completed. Preprint hosting 0/2 on scope/fit (PsyArXiv + SocArXiv declined "Criterion Transfer" as a general AI paper, not social-science-specific); SSRN unconfirmed; IJHCS and Behaviour & Information Technology still the primary journal targets
+- Last known progress: (frozen) v5 (May 26, 2026), 15pp theoretical paper on cognitive compliance; owner: nowhere near ready; needs free/OA venue research once completed. Preprint hosting 0/2 on scope/fit (PsyArXiv + SocArXiv declined "Criterion Transfer" as a general AI paper, not social-science-specific); SSRN unconfirmed; IJHCS and Behaviour & Information Technology still the primary journal targets. Owner 2026-09-01: denied from AI & Society with feedback to update (revision signal, not kill) — still parked here; no Monday mention; no Progress-log append this week
 - Open questions: (frozen — do not chase) Stage 3→4 still primary gap?; is sycophancy still a unitary Stage-1 antecedent?; which free/OA venues fit once revised?; is SSRN (or another generalist preprint server) the remaining preprint path after two scope rejections?
 - Next move: none until owner resumes — finish personal essays first
 - Dependencies: Bandwidth vs Penn/ACAM clinical transcript work
@@ -140,19 +145,42 @@ Parked until personal essays are finished. Monday must **not** mention these (Fo
 - One-line thesis: Season 3 — calm as reclaiming self-directed agency, tied to outsourced judgment (Claude 2026-08-27). Public site also describes book / podcast / newsletter; not on the Active roster.
 - Design exists: no (guest criteria still undocumented)
 - Domains researched: none recorded
-- Last chat/file signal: Claude 2026-08-27 — Season 3 thesis reaffirmed; Architect of Calm content also noted as fitting Substack's tech/human-systems focus. Not promoted.
+- Last chat/file signal: Owner 2026-09-01 — podcast connected to Substack for visibility (distribution signal; not a roster promotion). Claude 2026-08-27 — Season 3 thesis reaffirmed; guest criteria undocumented.
 - Gate: do not promote until owner places it on the roster (or names it as Third book); treat as a separate public track until then — do not collapse into Standalone socio-technological essays or Third book (title TBD)
 - Progress log:
   - 2026-08-27: new — named project update from Claude capture; Season 3 thesis reaffirmed; guest criteria undocumented; design=no
+  - 2026-09-01: continued: owner — connected podcast to Substack; deleted Beehiiv and subscription — distribution, not a promotion
 
 ### Critical thinking webinar (provisional)
-- One-line thesis: TBD — signal = new idea tied to "we are our own agents" / self-directed agency (Claude 2026-08-27); parent idea = none
-- Design exists: no
+- One-line thesis: TBD — signal = new idea tied to "we are our own agents" / self-directed agency (Claude 2026-08-27); parent idea = none; live form became Think Better (Claude 2026-08-30)
+- Design exists: no (design moved to Think Better)
 - Domains researched: none
-- Last chat/file signal: Claude 2026-08-27 — new candidate, not promoted
-- Gate: do not promote until thesis + design exist; do not treat as a new numbered series or book
+- Last chat/file signal: Owner 2026-09-01 — Think Better / critical thinking course on hold; Claude 2026-08-30 — split into Think Better
+- Gate: do not promote; keep as historical candidate; Think Better is the live form and is itself on hold
 - Progress log:
   - 2026-08-27: new — candidate from Claude capture; design=no; domains=none; parent=none
+  - 2026-08-30: continued: split into Think Better (Claude capture)
+  - 2026-09-01: blocked: owner — idea on hold (will still be thought out, not active)
+
+### Think Better (provisional)
+- One-line thesis: make better judgments when AI can generate convincing answers — proposed title "Better Judgment in the Age of AI" (Claude 2026-08-30)
+- Design exists: yes (5-lesson 45–75 min pilot; Five Questions framework; STOP→IDENTIFY→CHECK→CHALLENGE→CHOOSE; $500 budget; 6-week validation) — owner 2026-09-01: on hold, not active
+- Domains researched: none
+- Last chat/file signal: Owner 2026-09-01 — on hold (still to be thought out, not active). Claude 2026-08-30 — split from Critical thinking webinar; parent thread = CAM seminar / "we are our own agents"
+- Gate: do not promote; do not treat as a new numbered series or book; do not follow through while on hold
+- Progress log:
+  - 2026-08-30: new — candidate from Claude capture; design=yes (pilot plan drafted, not started); parent=Critical thinking webinar / CAM seminar
+  - 2026-09-01: blocked: owner — idea on hold; will still be thought out, but not active
+
+### Accountability as the Reserved Domain (provisional)
+- One-line thesis: ego reserves accountability (not mechanics) for power as a structural safeguard against total AI power transfer — individual / institutional / civilizational (Claude 2026-08-30)
+- Design exists: no (essay concept only; I, Robot / VIKI inversion as structuring device; strong vs narrow claim still open)
+- Domains researched: none
+- Last chat/file signal: Owner 2026-09-01 — new essay idea "Human ego preventing AI from taking over" connects to this concept. Claude 2026-08-30 — not yet queued against mid-October.
+- Gate: do not promote; treat as a Standalone socio-technological essays idea until owner queues it; not a numbered Substack-series post unless named
+- Progress log:
+  - 2026-08-30: new — candidate from Claude capture; design=no; not queued
+  - 2026-09-01: continued: owner — "Human ego preventing AI from taking over" listed as a new essay idea connecting to this concept
 
 ---
 
@@ -182,8 +210,20 @@ append to it, never rewrite past entries.
   - log: 2026-08-17 Provisional — candidate, not promoted (Claude capture)
 - **Architect of Calm Season 3** [Provisional] — Calm as reclaiming self-directed agency, tied to outsourced judgment; book/podcast/newsletter, not an Active roster project
   - log: 2026-08-27 Provisional — named in Claude capture; guest criteria undocumented
-- **Critical thinking webinar** [New] — Thesis TBD; "we are our own agents"; parent=none
+  - log: 2026-09-01 continued — owner connected podcast to Substack; Beehiiv deleted (distribution, not promotion)
+- **Critical thinking webinar** [New] — Thesis TBD; "we are our own agents"; parent=none; live form became Think Better
   - log: 2026-08-27 New — candidate, not promoted (Claude capture)
+  - log: 2026-08-30 continued — split into Think Better (Claude capture)
+  - **Think Better** [Provisional] — "Better Judgment in the Age of AI" pilot; on hold (owner 2026-09-01)
+    - log: 2026-08-30 Provisional — pilot plan drafted, not started (Claude capture)
+    - log: 2026-09-01 blocked — owner: on hold, not active
+- **Accountability as the Reserved Domain** [New] — Ego reserves accountability (not mechanics) as structural safeguard; essay concept
+  - log: 2026-08-30 New — Claude capture; not queued against mid-October
+  - log: 2026-09-01 continued — owner new essay idea "Human ego preventing AI from taking over" connects here
+  - **Human ego preventing AI from taking over** [New] — Owner 2026-09-01 essay idea; same mechanism as parent
+    - log: 2026-09-01 New — owner capture
+- **Offline as a status** [New] — Prestige of unavailability; new Standalone essay idea; no parent
+  - log: 2026-09-01 New — owner capture; calendar placement unknown
 
 ---
 
@@ -197,6 +237,7 @@ append to it, never rewrite past entries.
 - 2026-08-21 (chat): stop mentioning research papers until personal essays are finished; park them in Future work with no updates
 - 2026-08-21 (chat): published — "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…"; layoff-cycle still under Standalone (Part 1 published, Part 2 scheduled, Part 3 drafted as of Aug 14; titles not in this week’s capture); Post 3 still published on the numbered series; Asymmetric Resonance stays essay-only
 - 2026-08-21 (chat): layoff-cycle pieces have not been numbered as part one/two/three; personal essays are a separate pipeline from the numbered series
+- 2026-09-01 (Re: Editorial Review – 2026-09-01): nine August Substack posts (Confound; Board; 4-part layoff series; $10/hr VA; Spotify); podcast connected to Substack; Beehiiv deleted; Sep–Oct scheduled; Think Better / critical thinking course on hold; new essay ideas "Offline as a status" and "Human ego preventing AI from taking over"; AI & Society denial with revision feedback (Future work — not a kill)
 
 ---
 
@@ -212,6 +253,7 @@ append to it, never rewrite past entries.
 - 2026-08-21 (Claude capture merge): closed: Standalone socio-technological essays — "The Board Under Your Feet" published Aug 2026 (piece closed; project remains active). No new owner captures. No candidates, promotions, or kills. blocked: The Manufactured Agreeable Mind (research paper) — no capture signal on Monday's follow-through (remaining generalist preprint path after PsyArXiv + SocArXiv). blocked: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — no capture signal on Monday's follow-through (personal essays inside vs beside the numbered series). Do not resurface still empty (nothing to expire).
 - 2026-08-21 (owner capture merge): parked: The Manufactured Agreeable Mind (research paper) → **Future work** (no further updates; Monday must not mention research papers). continued: Standalone socio-technological essays — published "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…"; layoff-cycle still under Standalone. resolved: personal essays are a separate pipeline from Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned); Post 3 still published. resolved: layoff-cycle not numbered as part one/two/three. Asymmetric Resonance stays essay-only. Not a do-not-resurface kill — Future work is a park, not Permanently suppressed.
 - 2026-08-31 (Monday merge of unprocessed Claude capture 2026-08-27; Sunday 2026-08-30 merge did not land): continued: Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned) — no new pieces this week; Architect of Calm content and looser-thesis Notes fit newsletter tech/human-systems focus. blocked: Standalone socio-technological essays — no new public pieces; last Monday’s follow-through (reviews/2026-08-24.md: ship next queued piece) still open. new: Architect of Calm (candidate; Season 3 thesis reaffirmed; guest criteria undocumented). new: Critical thinking webinar (candidate; design=no; parent=none). Criterion Transfer / CAM-seminar paper thread skipped (Future work). Snider Consulting program and Collegium Institute fellowships evaluated/deferred — not editorial projects. No owner captures. No promotions. Do not resurface still empty.
+- 2026-09-07 (Monday merge of unprocessed Claude 2026-08-30 + owner 2026-09-01; Sunday 2026-09-06 merge did not land): new: Accountability as the Reserved Domain (essay concept). new: Think Better (pilot plan; then owner hold). continued: Standalone socio-technological essays — owner August publishing correction (nine posts including Confound, Board, 4-part layoff series, $10/hr VA, Spotify); Sep–Oct calendar; new ideas Offline as a status and Human ego preventing AI from taking over. blocked: Think Better / Critical thinking webinar — owner on hold. continued: Architect of Calm — podcast connected to Substack (distribution, not promotion). Future work paper thread not appended to Progress log; owner AI & Society note stored only in frozen Last known progress. No promotions. Do not resurface still empty. Gmail MCP unavailable — no owner search after 2026-09-01.
 
 ---
 
@@ -222,11 +264,13 @@ append to it, never rewrite past entries.
 - 2026-08-06 Re: Re: Editorial Review – 2026-08-06 (scheduled Substack essay titles)
 - 2026-08-06 Re: Editorial Review – 2026-08-06 (demote Asymmetric Resonance to personal essay for now)
 - 2026-08-21 chat (Future work park; published essays; two clarifications)
+- 2026-09-01 Re: Editorial Review – 2026-09-01 (August publishing; Think Better hold; Sep–Oct calendar; new essay ideas)
 
 ---
 
 ## Processed owner captures
 
+- 2026-09-01.md
 - 2026-08-21.md
 - 2026-08-06.md
 
@@ -234,6 +278,7 @@ append to it, never rewrite past entries.
 
 ## Processed Claude captures
 
+- 2026-08-30.md
 - 2026-08-27.md
 - 2026-08-21.md
 - 2026-08-17.md
@@ -251,6 +296,11 @@ append to it, never rewrite past entries.
 - Resolved 2026-08-06: The Manufactured Agreeable Mind (research paper) v5 is pre-submission (not mid-revision); kill withdrawn earlier the same day
 - Resolved 2026-08-21: research papers parked in **Future work**; finish personal essays first; no weekly updates and do not mention in Monday review
 - Open 2026-08-31: Architect of Calm appeared in Claude 2026-08-27 as a named Season 3 thesis (guest criteria undocumented); not on the Active roster — treat as candidate until owner places it (do not assume it is Third book (title TBD))
+- Resolved 2026-09-01: Think Better / critical thinking course is on hold — still to be thought out, not active (owner); Claude 2026-08-30 pilot plan does not override
+- Open 2026-09-07: Owner 2026-09-01 lists a 4-part layoff series as published under Standalone; 2026-08-21 said those pieces were not numbered as one/two/three — treat as published Standalone series, still not Substack series (working title: "Manufactured/Contrarian Mind", 10 parts planned)
+- Open 2026-09-07: "Offline as a status" — already on the September–October calendar under Standalone socio-technological essays, or still idea-only?
+- Open 2026-09-07: "Human ego preventing AI from taking over" vs "Accountability as the Reserved Domain" — one essay or two?
+- Open 2026-09-07: podcast connected to Substack — Architect of Calm as a live public track beside Standalone socio-technological essays, or distribution-only?
 
 ---
 
