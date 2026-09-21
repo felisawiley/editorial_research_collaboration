@@ -253,6 +253,7 @@ append to it, never rewrite past entries.
 - 2026-08-21 (chat): published — "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…"; layoff-cycle still under Standalone (Part 1 published, Part 2 scheduled, Part 3 drafted as of Aug 14; titles not in this week’s capture); Post 3 still published on the numbered series; Asymmetric Resonance stays essay-only
 - 2026-08-21 (chat): layoff-cycle pieces have not been numbered as part one/two/three; personal essays are a separate pipeline from the numbered series
 - 2026-09-01 (Re: Editorial Review – 2026-09-01): nine August Substack posts (Confound; Board; 4-part layoff series; $10/hr VA; Spotify); podcast connected to Substack; Beehiiv deleted; Sep–Oct scheduled; Think Better / critical thinking course on hold; new essay ideas "Offline as a status" and "Human ego preventing AI from taking over"; AI & Society denial with revision feedback (Future work — not a kill)
+- 2026-09-21 (Re: Editorial Review – 2026-09-20): archived in captures/owner/2026-09-21.md, pending Sunday merge — "We Shouldn't Need the Word Sociotechnical" scheduled October 28 (not Sept 10 publish); "The Accountability We Outsourced" has not been written; "The Guardrail Always Arrives Late" brainstormed in Claude, not written; Think Better scheduled October 14; "Offline as a Status" still brainstorm. No do not resurface line.
 
 ---
 
