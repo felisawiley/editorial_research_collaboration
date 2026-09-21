@@ -326,6 +326,8 @@ append to it, never rewrite past entries.
 - Open 2026-09-20: "We Shouldn't Need the Word Sociotechnical" completed and scheduled Sept 10 (Claude 2026-09-14) — confirm published vs still queued as the next title after "The Accountability We Outsourced"
 - Open 2026-09-20: "The Guardrail Always Arrives Late" — publish now vs complete structural pass (paragraphs 4 and 6) first; no owner reply to reviews/2026-09-14.md
 - Open 2026-09-20: "The Guardrail Always Arrives Late" vs "Accountability as the Reserved Domain" — Monday blend keeps them separate unless owner merges
+- Open 2026-09-21: Public Substack (not a Gmail reply) — "The Death of the Devil's Advocate" published Sep 2; "Why Are We So Afraid of AI? We're Already Pre-Trained." (slug we-didnt-choose-our-weights-either) published Sep 9; "The Best Answer Isn't Always the Right One" published Sep 16. "We Shouldn't Need the Word Sociotechnical" is scheduled for October 28, 5:20pm (schedule created Sep 10 — that was not the publish date). "The Guardrail Always Arrives Late" has no public slug. Monday did not append Progress-log lines; Sunday should merge these as owner-visible public facts.
+- Open 2026-09-21: "The Best Answer Isn't Always the Right One" vs remaining August 6 title "Outsourcing Judgment, One Prompt at a Time" — same premature-closure mechanism; Monday blend treats Best Answer as having taken that slot unless owner still intends a separate piece
 
 ---
 
