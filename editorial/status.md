@@ -9,9 +9,9 @@ is ever deleted to get there — each one also carries an append-only
 can trace how a thought was refined, continued, or resolved over time without
 digging through git history.
 
-Last status update: 2026-09-20
-Last chat scan: 2026-08-27
-Source: Sunday merge of unprocessed Claude capture 2026-09-14 (Monday 2026-09-14 review already used it; status merge had not landed). Owner 2026-09-01 remains current-state for August publishing, Think Better hold, Sep–Oct calendar, new essay ideas. Claude 2026-09-14: "We Shouldn't Need the Word Sociotechnical" completed and scheduled (Sept 10); "The Guardrail Always Arrives Late" drafted after two fact-check rounds, flagged for structural pass (paragraphs 4 and 6). Kids' shoelace subscription brand and deliberately vulnerable security-practice lab skipped — not editorial projects. Gmail search 2026-09-20: no owner reply to Editorial Review – 2026-09-14.
+Last status update: 2026-09-27
+Last chat scan: 2026-09-27
+Source: Sunday merge of owner capture 2026-09-21 (Re: Editorial Review – 2026-09-20); no new Claude captures this week. Owner clarifies "We Shouldn't Need the Word Sociotechnical" scheduled October 28 (not a Sept 10 publish); "Think Better" scheduled October 14; "Offline as a Status" still brainstorm-only. Owner also states "The Accountability We Outsourced" has not been written and "The Guardrail Always Arrives Late" is only brainstormed in Claude — both contradict the 2026-09-07 and 2026-09-14 Claude-capture entries logging them as published/drafted; flagged as new Open clarifications rather than overwritten. Follow-through (reviews/2026-09-21.md: confirm the public September map under Standalone socio-technological essays) addressed — this week's owner capture delivers a delta on that project, so not blocked.
 
 ---
 
@@ -62,8 +62,8 @@ Source: Sunday merge of unprocessed Claude capture 2026-09-14 (Monday 2026-09-14
 
 ### Standalone socio-technological essays
 - Status: Pipeline active — personal essays are the live public track (separate from the numbered Substack series)
-- Last known progress: Claude 2026-09-14 — "We Shouldn't Need the Word Sociotechnical" completed and scheduled for publication (Sept 10); "The Guardrail Always Arrives Late" (AI risk / Manhattan Project essay) drafted after two rounds of fact-checking and editorial correction, flagged for a structural pass (repetition risk between paragraphs 4 and 6). Claude 2026-09-07 — "The Accountability We Outsourced" published (first named September piece). Owner 2026-09-01 correction — nine Substack posts published in August: "The Confound No One's Controlling For"; "The Board Under Your Feet"; the 4-part layoff series; "My $10/hr VA"; Spotify. Also still logged from owner 2026-08-21: "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…". Owner 2026-09-01 lists the 4-part layoff series as published (current-state; earlier Part 2 scheduled / Part 3 drafted lines stay in the log). Content scheduled on LinkedIn and Substack (essays, thoughts, notes, podcast — old season and new) for all of September headed into October. New essay ideas still unplaced: "Offline as a status"; "Human ego preventing AI from taking over" (owner connects to "Accountability as the Reserved Domain"). Still on the August 6 scheduled list unless later marked published: "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance". Asymmetric Resonance stays essay-only. Podcast connected to Substack; Beehiiv deleted.
-- Next move: Confirm whether "We Shouldn't Need the Word Sociotechnical" published as scheduled (Sept 10); then say whether "The Guardrail Always Arrives Late" is next on the September–October calendar or still in structural-pass. Do not divert to Future work / research papers.
+- Last known progress: Claude 2026-09-14 — "We Shouldn't Need the Word Sociotechnical" completed and scheduled for publication (Sept 10); "The Guardrail Always Arrives Late" (AI risk / Manhattan Project essay) drafted after two rounds of fact-checking and editorial correction, flagged for a structural pass (repetition risk between paragraphs 4 and 6). Claude 2026-09-07 — "The Accountability We Outsourced" published (first named September piece). Owner 2026-09-01 correction — nine Substack posts published in August: "The Confound No One's Controlling For"; "The Board Under Your Feet"; the 4-part layoff series; "My $10/hr VA"; Spotify. Also still logged from owner 2026-08-21: "Why My $10/hr VA Now Costs $20"; "We Made Applying Too Easy"; "AI Won't Kill LinkedIn. It Might Change Hiring In…". Owner 2026-09-01 lists the 4-part layoff series as published (current-state; earlier Part 2 scheduled / Part 3 drafted lines stay in the log). Content scheduled on LinkedIn and Substack (essays, thoughts, notes, podcast — old season and new) for all of September headed into October. New essay ideas still unplaced: "Offline as a status"; "Human ego preventing AI from taking over" (owner connects to "Accountability as the Reserved Domain"). Still on the August 6 scheduled list unless later marked published: "The Death of the Devil's Advocate"; "The Best Answer Isn't Always the Right One"; "Outsourcing Judgment, One Prompt at a Time"; "Think Bigger - Asymmetric Resonance". Asymmetric Resonance stays essay-only. Podcast connected to Substack; Beehiiv deleted. Owner 2026-09-21 (supersedes conflicting Claude-capture claims noted below): "We Shouldn't Need the Word Sociotechnical" is scheduled for October 28 — Sept 10 was when the schedule was created, not a publish date; "The Accountability We Outsourced" has not been written (contradicts the 2026-09-07 Claude-capture "published" entry above — see Open clarifications); "The Guardrail Always Arrives Late" has only been brainstormed in Claude, not written (contradicts the 2026-09-14 Claude-capture "drafted" entry above — see Open clarifications).
+- Next move: Resolve the owner-vs-Claude-capture conflict on "The Accountability We Outsourced" and "The Guardrail Always Arrives Late" (see Open clarifications); confirm "We Shouldn't Need the Word Sociotechnical" stays on track for October 28. Do not divert to Future work / research papers.
 - Progress log:
   - 2026-08-05: Pipeline empty — baseline
   - 2026-08-06: owner — 6 Substack personal essays drafted+scheduled
@@ -79,6 +79,7 @@ Source: Sunday merge of unprocessed Claude capture 2026-09-14 (Monday 2026-09-14
   - 2026-09-14: continued: "We Shouldn't Need the Word Sociotechnical" completed and scheduled for publication (Sept 10) (Claude capture) — appears to be the next named title after "The Accountability We Outsourced"; publish confirmation still open
   - 2026-09-14: continued: "The Guardrail Always Arrives Late" drafted; two rounds of fact-checking and editorial correction; flagged for a structural pass (repetition risk between paragraphs 4 and 6) (Claude capture)
   - 2026-09-20: blocked: no capture signal on Monday's follow-through (reviews/2026-09-14.md: confirm whether "The Guardrail Always Arrives Late" is ready to publish or the structural pass should be completed first). Gmail search found no owner reply to Editorial Review – 2026-09-14. Claude 2026-09-14 already logged the draft + structural-pass state.
+  - 2026-09-27: continued: owner 2026-09-21 (Re: Editorial Review – 2026-09-20) — "We Shouldn't Need the Word Sociotechnical" scheduled October 28, not published (Sept 10 = schedule-creation date); "The Accountability We Outsourced" has not been written; "The Guardrail Always Arrives Late" only brainstormed in Claude, not written. The latter two contradict this project's 2026-09-07 and 2026-09-14 Claude-capture entries — flagged as new Open clarifications; those entries not edited. Satisfies reviews/2026-09-21.md follow-through target (delta delivered on this project) — not blocked.
 
 ---
 
@@ -171,11 +172,12 @@ Parked until personal essays are finished. Monday must **not** mention these (Fo
 - One-line thesis: make better judgments when AI can generate convincing answers — proposed title "Better Judgment in the Age of AI" (Claude 2026-08-30)
 - Design exists: yes (5-lesson 45–75 min pilot; Five Questions framework; STOP→IDENTIFY→CHECK→CHALLENGE→CHOOSE; $500 budget; 6-week validation) — owner 2026-09-01: on hold, not active
 - Domains researched: none
-- Last chat/file signal: Owner 2026-09-01 — on hold (still to be thought out, not active). Claude 2026-08-30 — split from Critical thinking webinar; parent thread = CAM seminar / "we are our own agents"
+- Last chat/file signal: Owner 2026-09-01 — on hold (still to be thought out, not active). Claude 2026-08-30 — split from Critical thinking webinar; parent thread = CAM seminar / "we are our own agents". Owner 2026-09-21 — scheduled for October 14; unclear whether this lifts the 2026-09-01 on-hold status (see Open clarifications)
 - Gate: do not promote; do not treat as a new numbered series or book; do not follow through while on hold
 - Progress log:
   - 2026-08-30: new — candidate from Claude capture; design=yes (pilot plan drafted, not started); parent=Critical thinking webinar / CAM seminar
   - 2026-09-01: blocked: owner — idea on hold; will still be thought out, but not active
+  - 2026-09-27: continued: owner 2026-09-21 — scheduled for October 14; unclear whether this lifts the 2026-09-01 on-hold gate (flagged as new Open clarification)
 
 ### Accountability as the Reserved Domain (provisional)
 - One-line thesis: ego reserves accountability (not mechanics) for power as a structural safeguard against total AI power transfer — individual / institutional / civilizational (Claude 2026-08-30)
@@ -223,9 +225,10 @@ append to it, never rewrite past entries.
 - **Critical thinking webinar** [New] — Thesis TBD; "we are our own agents"; parent=none; live form became Think Better
   - log: 2026-08-27 New — candidate, not promoted (Claude capture)
   - log: 2026-08-30 continued — split into Think Better (Claude capture)
-  - **Think Better** [Provisional] — "Better Judgment in the Age of AI" pilot; on hold (owner 2026-09-01)
+  - **Think Better** [Provisional] — "Better Judgment in the Age of AI" pilot; on hold (owner 2026-09-01); owner 2026-09-21 lists it as scheduled for October 14 (unclear whether hold is lifted — see Open clarifications)
     - log: 2026-08-30 Provisional — pilot plan drafted, not started (Claude capture)
     - log: 2026-09-01 blocked — owner: on hold, not active
+    - log: 2026-09-27 continued — owner 2026-09-21: scheduled for October 14; unclear whether this lifts the 2026-09-01 on-hold status (flagged as new Open clarification)
 - **Accountability as the Reserved Domain** [New] — Ego reserves accountability (not mechanics) as structural safeguard; essay concept
   - log: 2026-08-30 New — Claude capture; not queued against mid-October
   - log: 2026-09-01 continued — owner new essay idea "Human ego preventing AI from taking over" connects here
@@ -233,12 +236,15 @@ append to it, never rewrite past entries.
   - log: 2026-09-14 continued — adjacent Standalone draft "The Guardrail Always Arrives Late"; keep separate unless owner merges (Claude capture)
   - **Human ego preventing AI from taking over** [New] — Owner 2026-09-01 essay idea; same mechanism as parent
     - log: 2026-09-01 New — owner capture
-- **The Guardrail Always Arrives Late** [New] — AI risk / Manhattan Project essay; drafted; structural pass flagged (paragraphs 4 and 6); Standalone socio-technological essays piece, not a numbered series post
+- **The Guardrail Always Arrives Late** [New] — AI risk / Manhattan Project essay; owner 2026-09-21: only brainstormed in Claude, not written (contradicts earlier Claude-capture "drafted, fact-checked, structural-pass-flagged" claim — see Open clarifications); Standalone socio-technological essays piece, not a numbered series post
   - log: 2026-09-14 New — Claude capture; not confirmed on Sep–Oct calendar
-- **We Shouldn't Need the Word Sociotechnical** [New] — Naming/terminology essay; completed and scheduled Sept 10; Standalone socio-technological essays
+  - log: 2026-09-27 continued — owner 2026-09-21: only brainstormed in Claude, not written; contradicts the 2026-09-14 Claude-capture log line above (drafted; structural pass flagged) — flagged as new Open clarification
+- **We Shouldn't Need the Word Sociotechnical** [New] — Naming/terminology essay; scheduled for October 28 (owner 2026-09-21; Sept 10 was the schedule-creation date, not publish); Standalone socio-technological essays
   - log: 2026-09-14 New — Claude capture; publish confirmation open
+  - log: 2026-09-27 resolved — owner 2026-09-21 confirms scheduled October 28; not published; Sept 10 was the schedule-creation date
 - **Offline as a status** [New] — Prestige of unavailability; new Standalone essay idea; no parent
   - log: 2026-09-01 New — owner capture; calendar placement unknown
+  - log: 2026-09-27 continued — owner 2026-09-21: still in brainstorm mode; no calendar placement
 
 ---
 
@@ -254,6 +260,7 @@ append to it, never rewrite past entries.
 - 2026-08-21 (chat): layoff-cycle pieces have not been numbered as part one/two/three; personal essays are a separate pipeline from the numbered series
 - 2026-09-01 (Re: Editorial Review – 2026-09-01): nine August Substack posts (Confound; Board; 4-part layoff series; $10/hr VA; Spotify); podcast connected to Substack; Beehiiv deleted; Sep–Oct scheduled; Think Better / critical thinking course on hold; new essay ideas "Offline as a status" and "Human ego preventing AI from taking over"; AI & Society denial with revision feedback (Future work — not a kill)
 - 2026-09-21 (Re: Editorial Review – 2026-09-20): archived in captures/owner/2026-09-21.md, pending Sunday merge — "We Shouldn't Need the Word Sociotechnical" scheduled October 28 (not Sept 10 publish); "The Accountability We Outsourced" has not been written; "The Guardrail Always Arrives Late" brainstormed in Claude, not written; Think Better scheduled October 14; "Offline as a Status" still brainstorm. No do not resurface line.
+- 2026-09-27 (Sunday merge of captures/owner/2026-09-21.md landed): "We Shouldn't Need the Word Sociotechnical" scheduled October 28; "The Accountability We Outsourced" not written and "The Guardrail Always Arrives Late" only brainstormed — both flagged as contradicting the 2026-09-07/2026-09-14 Claude-capture entries (new Open clarifications, not overwritten); Think Better scheduled October 14 (hold status unclear); "Offline as a Status" still brainstorm. No do-not-resurface items.
 
 ---
 
@@ -272,6 +279,7 @@ append to it, never rewrite past entries.
 - 2026-09-07 (Monday merge of unprocessed Claude 2026-08-30 + owner 2026-09-01; Sunday 2026-09-06 merge did not land): new: Accountability as the Reserved Domain (essay concept). new: Think Better (pilot plan; then owner hold). continued: Standalone socio-technological essays — owner August publishing correction (nine posts including Confound, Board, 4-part layoff series, $10/hr VA, Spotify); Sep–Oct calendar; new ideas Offline as a status and Human ego preventing AI from taking over. blocked: Think Better / Critical thinking webinar — owner on hold. continued: Architect of Calm — podcast connected to Substack (distribution, not promotion). Future work paper thread not appended to Progress log; owner AI & Society note stored only in frozen Last known progress. No promotions. Do not resurface still empty. Gmail MCP unavailable — no owner search after 2026-09-01.
 - 2026-09-14 (Monday merge of unprocessed Claude 2026-09-07; Sunday 2026-09-13 merge did not land): closed: Standalone socio-technological essays — "The Accountability We Outsourced" published (piece closed; project remains active). continued: Architect of Calm — intro/outro locked Sept 6; download forecast adopted (production, not promotion). continued: Accountability as the Reserved Domain — adjacent published essay; candidate still unqueued. blocked: last Monday’s follow-through (reviews/2026-09-07.md: merge Human ego vs Reserved Domain) — no owner capture. Criterion Transfer paper revision skipped (Future work). Silver Creek Analytics and Read the Room (EAS 5460) skipped — not editorial projects. No promotions. Do not resurface still empty. Gmail MCP unavailable — no owner search after 2026-09-01.
 - 2026-09-20 (Sunday merge of unprocessed Claude 2026-09-14; Monday 2026-09-14 review had used the capture but status did not): continued: Standalone socio-technological essays — "We Shouldn't Need the Word Sociotechnical" completed and scheduled Sept 10; "The Guardrail Always Arrives Late" drafted, structural pass flagged. new: both titles on the Idea tree (not promoted). new angle: Guardrail adjacent to Accountability as the Reserved Domain — keep separate unless owner merges. blocked: reviews/2026-09-14.md follow-through (Guardrail publish vs structural pass) — no owner Gmail reply. blocked: merge vs separate for "Human ego preventing AI from taking over" — still no owner reply since 2026-09-01. Kids' shoelace subscription brand and deliberately vulnerable security-practice lab skipped — not editorial projects. No promotions. Do not resurface still empty.
+- 2026-09-27 (Sunday merge — no new Claude captures this week; owner 2026-09-21 processed): continued: Standalone socio-technological essays — owner clarifies "We Shouldn't Need the Word Sociotechnical" scheduled October 28 (not published); flags "The Accountability We Outsourced" as not written and "The Guardrail Always Arrives Late" as only brainstormed, contradicting the 2026-09-07/2026-09-14 Claude-capture entries — both flagged as new Open clarifications, not overwritten. continued: Think Better (candidate) — owner schedules October 14; unclear if this lifts the 2026-09-01 hold (new Open clarification). resolved: idea tree — "We Shouldn't Need the Word Sociotechnical" (Oct 28, not published). continued: idea tree — "The Guardrail Always Arrives Late", "Offline as a status", "Think Better". Follow-through (reviews/2026-09-21.md: confirm public September map for Standalone) satisfied — owner capture delivered a delta on that project, not blocked. No closures, no new candidates, no promotions, no kills. Do not resurface still empty (owner 2026-09-21: none specified).
 
 ---
 
@@ -288,6 +296,7 @@ append to it, never rewrite past entries.
 
 ## Processed owner captures
 
+- 2026-09-21.md
 - 2026-09-01.md
 - 2026-08-21.md
 - 2026-08-06.md
@@ -324,11 +333,14 @@ append to it, never rewrite past entries.
 - Open 2026-09-14: "The Accountability We Outsourced" published — does that close the personal-essay treatment of accountability, leaving "Accountability as the Reserved Domain" and "Human ego preventing AI from taking over" unqueued?
 - Open 2026-09-14: next public title after "The Accountability We Outsourced" on the September–October calendar under Standalone socio-technological essays is still unnamed in status
 - Open 2026-09-14: Architect of Calm intro/outro locked and download forecast done (Claude 2026-09-07) — still a candidate unless owner places it; do not assume Third book (title TBD)
-- Open 2026-09-20: "We Shouldn't Need the Word Sociotechnical" completed and scheduled Sept 10 (Claude 2026-09-14) — confirm published vs still queued as the next title after "The Accountability We Outsourced"
-- Open 2026-09-20: "The Guardrail Always Arrives Late" — publish now vs complete structural pass (paragraphs 4 and 6) first; no owner reply to reviews/2026-09-14.md
+- Resolved 2026-09-27: "We Shouldn't Need the Word Sociotechnical" — owner 2026-09-21 confirms scheduled for October 28 (Sept 10 was the schedule-creation date, not a publish date); not yet published
+- Resolved 2026-09-27 (moot): owner 2026-09-21 says "The Guardrail Always Arrives Late" has only been brainstormed in Claude, not written — no draft exists, so the publish-vs-structural-pass question no longer applies; see the 2026-09-27 clarification below on the conflict with the 2026-09-07/2026-09-14 Claude-capture entries
 - Open 2026-09-20: "The Guardrail Always Arrives Late" vs "Accountability as the Reserved Domain" — Monday blend keeps them separate unless owner merges
 - Open 2026-09-21: Public Substack (not a Gmail reply) — "The Death of the Devil's Advocate" published Sep 2; "Why Are We So Afraid of AI? We're Already Pre-Trained." (slug we-didnt-choose-our-weights-either) published Sep 9; "The Best Answer Isn't Always the Right One" published Sep 16. "We Shouldn't Need the Word Sociotechnical" is scheduled for October 28, 5:20pm (schedule created Sep 10 — that was not the publish date). "The Guardrail Always Arrives Late" has no public slug. Monday did not append Progress-log lines; Sunday should merge these as owner-visible public facts.
 - Open 2026-09-21: "The Best Answer Isn't Always the Right One" vs remaining August 6 title "Outsourcing Judgment, One Prompt at a Time" — same premature-closure mechanism; Monday blend treats Best Answer as having taken that slot unless owner still intends a separate piece
+- Open 2026-09-27: Owner 2026-09-21 says "The Accountability We Outsourced" has not been written — contradicts the 2026-09-07 Claude-capture entry logging it as published (closed). Which account is current?
+- Open 2026-09-27: Owner 2026-09-21 says "The Guardrail Always Arrives Late" has only been brainstormed in Claude, not written — contradicts the 2026-09-14 Claude-capture entry logging it as drafted after two fact-check rounds and flagged for a structural pass. Which account is current?
+- Open 2026-09-27: Owner 2026-09-21 lists "Think Better" as scheduled for October 14 — does this lift the 2026-09-01 on-hold status, or is this a placeholder/aspirational date while the project stays on hold?
 
 ---
 
