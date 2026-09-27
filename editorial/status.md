@@ -261,6 +261,7 @@ append to it, never rewrite past entries.
 - 2026-09-01 (Re: Editorial Review – 2026-09-01): nine August Substack posts (Confound; Board; 4-part layoff series; $10/hr VA; Spotify); podcast connected to Substack; Beehiiv deleted; Sep–Oct scheduled; Think Better / critical thinking course on hold; new essay ideas "Offline as a status" and "Human ego preventing AI from taking over"; AI & Society denial with revision feedback (Future work — not a kill)
 - 2026-09-21 (Re: Editorial Review – 2026-09-20): archived in captures/owner/2026-09-21.md, pending Sunday merge — "We Shouldn't Need the Word Sociotechnical" scheduled October 28 (not Sept 10 publish); "The Accountability We Outsourced" has not been written; "The Guardrail Always Arrives Late" brainstormed in Claude, not written; Think Better scheduled October 14; "Offline as a Status" still brainstorm. No do not resurface line.
 - 2026-09-27 (Sunday merge of captures/owner/2026-09-21.md landed): "We Shouldn't Need the Word Sociotechnical" scheduled October 28; "The Accountability We Outsourced" not written and "The Guardrail Always Arrives Late" only brainstormed — both flagged as contradicting the 2026-09-07/2026-09-14 Claude-capture entries (new Open clarifications, not overwritten); Think Better scheduled October 14 (hold status unclear); "Offline as a Status" still brainstorm. No do-not-resurface items.
+- 2026-09-27 (chat): archived in captures/owner/2026-09-27.md, pending Sunday merge — busy with coursework, low motivation; not a kill; no do not resurface line.
 
 ---
 
@@ -341,6 +342,7 @@ append to it, never rewrite past entries.
 - Open 2026-09-27: Owner 2026-09-21 says "The Accountability We Outsourced" has not been written — contradicts the 2026-09-07 Claude-capture entry logging it as published (closed). Which account is current?
 - Open 2026-09-27: Owner 2026-09-21 says "The Guardrail Always Arrives Late" has only been brainstormed in Claude, not written — contradicts the 2026-09-14 Claude-capture entry logging it as drafted after two fact-check rounds and flagged for a structural pass. Which account is current?
 - Open 2026-09-27: Owner 2026-09-21 lists "Think Better" as scheduled for October 14 — does this lift the 2026-09-01 on-hold status, or is this a placeholder/aspirational date while the project stays on hold?
+- Open 2026-09-27: Owner chat — busy with coursework, low motivation; treat as bandwidth, not a kill; do not treat as a do-not-resurface line
 
 ---
 
