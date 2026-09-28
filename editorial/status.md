@@ -297,6 +297,7 @@ append to it, never rewrite past entries.
 
 ## Processed owner captures
 
+- 2026-09-27.md
 - 2026-09-21.md
 - 2026-09-01.md
 - 2026-08-21.md
@@ -343,6 +344,8 @@ append to it, never rewrite past entries.
 - Open 2026-09-27: Owner 2026-09-21 says "The Guardrail Always Arrives Late" has only been brainstormed in Claude, not written — contradicts the 2026-09-14 Claude-capture entry logging it as drafted after two fact-check rounds and flagged for a structural pass. Which account is current?
 - Open 2026-09-27: Owner 2026-09-21 lists "Think Better" as scheduled for October 14 — does this lift the 2026-09-01 on-hold status, or is this a placeholder/aspirational date while the project stays on hold?
 - Open 2026-09-27: Owner chat — busy with coursework, low motivation; treat as bandwidth, not a kill; do not treat as a do-not-resurface line
+- Open 2026-09-28: Public Substack (not a Gmail reply) — Architect of Calm E16 "Your Job Isn't the Problem, Your Open Tabs Are with Mary (Wendroff) Petto" published Sep 22. No new Standalone socio-technological essays title after "The Best Answer Isn't Always the Right One" (Sep 16). "We Shouldn't Need the Word Sociotechnical" is still absent from the public archive (consistent with the October 28 schedule). Monday did not append Progress-log lines.
+- Open 2026-09-28: Monday treats owner 2026-09-21 as current for "The Accountability We Outsourced" (not written) and "The Guardrail Always Arrives Late" (brainstorm-only). Sunday’s 2026-09-27 “which account is current” items remain for Sunday to close against the Claude-capture log lines — not re-asked.
 
 ---
 
