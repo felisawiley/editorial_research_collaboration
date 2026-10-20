@@ -1,0 +1,4 @@
+{
+  "name": "Editorial Research Collaboration",
+  "install": "bash .cursor/install.sh"
+}
